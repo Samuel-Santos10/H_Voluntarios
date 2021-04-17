@@ -1,6 +1,5 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -11,8 +10,11 @@ use Illuminate\Support\Facades\Route;
 | routes are loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group. Now create something great!
 |
-*/
+        */
+        Route::view('/', 'home')->name('home');
 
-Route::get('/', function () {
-    return view('welcome');
-});
+        Route::view('/informate', 'informate')->name('informate');
+
+        Route::view('/quienesSomos', 'quienesSomos')->name('quienesSomos');
+
+        Route::view('/ambiental', 'ambiental')->name('ambiental');
