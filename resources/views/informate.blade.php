@@ -22,7 +22,7 @@
     <img src="img/educacion.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">EDUCATIVO</h5>
-      <a href="#" class="btn btn-primary">IR EDUCATIVO</a>
+      <a href="educativo" class="btn btn-primary">IR EDUCATIVO</a>
     </div>
   </div>
   <div class="card text-dark bg-light">

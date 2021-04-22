@@ -26,3 +26,5 @@
         Route::view('/socio_sanitario', 'socio_sanitario')->name('socio_sanitario');
 
         Route::view('/comunitario', 'comunitario')->name('comunitario');
+
+        Route::view('/educativo', 'educativo')->name('educativo');
