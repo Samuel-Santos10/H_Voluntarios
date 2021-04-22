@@ -15,7 +15,7 @@
     <img src="img/ambiental.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">AMBIENTAL</h5>
-      <a href="ambiental" class="btn btn-primary">IR AMBIENTAL</a>
+      <a href="sub_menu1" class="btn btn-primary">IR AMBIENTAL</a>
     </div>
   </div>
   <div class="card text-dark bg-light">

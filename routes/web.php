@@ -28,3 +28,5 @@
         Route::view('/comunitario', 'comunitario')->name('comunitario');
 
         Route::view('/educativo', 'educativo')->name('educativo');
+
+        Route::view('/sub_menu1', 'sub_menu1')->name('sub_menu1');
