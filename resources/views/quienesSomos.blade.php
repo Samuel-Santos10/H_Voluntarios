@@ -16,7 +16,7 @@
 
             </div>
 
-            <div class="col-12 align-self-center" id="valores">
+            <div class="col-12 align-self-center" class="valores">
                 <h5>VALORES</h5>
             <ul> 
                 <li>Confianza</li>
@@ -32,7 +32,7 @@
 
          
 
-            <div class="col-12 align-self-center" id="valores">
+            <div class="col-12 align-self-center" class="valores">
                 <h5>PRINCIPIOS</h5>
             <ul> 
                 <li>Igualdad </li>
@@ -75,15 +75,15 @@
                         
                         <p>Somos un equipo enfocado a crear una herramienta de ayuda cuyo objetivo es conectar a las empresas y  organizaciones que ofrecen programas de <br> voluntariado en El Salvador con jóvenes y adultos que puedan ser voluntarios, orientándolos mediante una plataforma informática en la cual tengan acceso a información <br> de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario que ofrecen las empresas y que puedan registrarse en los programas que estas ofrecen </p>
 
-                    </div>   
+                </div>   
             </div>
-        </div>
+    
 
- <div class="row py-2">
-            <div class="col">
+        <div class="row py-2">
+           <div class="col">
               <h6 class="text-center">“Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo.” Eduardo Galeano.</h6>
-            </div>
           </div>
+       </div>
 
 
 @endsection

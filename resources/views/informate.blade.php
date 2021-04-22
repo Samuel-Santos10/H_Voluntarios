@@ -11,43 +11,49 @@
 
 
     <div class="card-group">
-  <div class="card">
+  <div class="card text-center" style="width: 18rem;">
     <img src="img/ambiental.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">AMBIENTAL</h5>
+      <a href="ambiental" class="btn btn-primary">IR AMBIENTAL</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card text-dark bg-light">
     <img src="img/educacion.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">EDUCATIVO</h5>
+      <a href="#" class="btn btn-primary">IR EDUCATIVO</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card text-dark bg-light">
     <img src="img/sociall.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">SOCIAL</h5>
+      <a href="social" class="btn btn-primary">IR SOCIAL</a>
     </div>
   </div>
 </div>
 
 <div class="card-group">
-  <div class="card">
+  <div class="card text-dark bg-light">
     <img src="img/proteccion.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">PROTECCION CIVIL</h5>
+            <a href="pro_civil" class="btn btn-primary">IR PROTECCION CIVIL</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card text-dark bg-light">
     <img src="img/comunitario.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">SOCIO-SANITARIO</h5>
+      <h5 class="card-title">COMUNITARIO</h5>
+            <a href="comunitario" class="btn btn-primary">IR COMUNITARIO</a>
     </div>
   </div>
-  <div class="card">
-    <img src="img/sociall.jpg" class="card-img-top" alt="...">
+  <div class="card text-dark bg-light">
+    <img src="img/sanitario.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title">SOCIO-SANITARIO</h5>
+            <a href="socio_sanitario" class="btn btn-primary">IR SOCIO-SANITARIO</a>
     </div>
   </div>
 </div>
