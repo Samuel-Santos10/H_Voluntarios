@@ -6,6 +6,9 @@
         
 
 <div class="col-12 align-self-center">
+
+<img src="img/am.png" alt="">
+
                 <h5>INDICE</h5>
             <ul id="valores"> 
                 <li>INTRODUCCION</li>
@@ -21,7 +24,7 @@
             </div>
 
      
-            <img src="" alt="imagen"> <br>
+            <img src="img/am1.jpg" alt=""> <br>
 
         <!--INDUCCION -->
 
@@ -39,7 +42,7 @@
           <p> <h5>¿Qué debes saber?</h5>
           Debes tener los conocimientos básicos para poder ayudar en las áreas de voluntariado. <br>
           
-          <img src="" alt="imagen"> <br>
+          <img src="img/am2.jpg" alt=""> <br>
 
           En este material te presentaremos las áreas ambientales donde puedes ofrecer ayuda, así como la solución a los diferentes  problemas ambientales <br> que existen en el país, conocerás las acciones que debes realizar para contribuir a mejorar el medio ambiente, tendrás la capacidad   para identificar <br> esos problemas y te mostraremos varios consejos que puedes poner en práctica para ser un voluntario ambiental. <br>
         Te proporcionamos un contenido con ilustraciones para que puedas comprender de una forma más sencilla y entretenida <br> aquellas acciones que debes realizar día a día y tus responsabilidades para llegar a ser un héroe voluntario.  
@@ -58,7 +61,7 @@
             <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item active">
-            <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+            <img src="img/am3.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
             <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
@@ -85,7 +88,7 @@
                         <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item active">
-                        <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+                        <img src="img/am4.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
                         <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
@@ -115,7 +118,7 @@
                             <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item active">
-                            <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+                            <img src="img/am5.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
                             <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
@@ -145,7 +148,7 @@
                         <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item active">
-                        <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+                        <img src="img/am6.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
                         <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
@@ -176,7 +179,7 @@
                                 <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
                                 </div>
                                 <div class="carousel-item active">
-                                <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+                                <img src="img/am7.jpg" class="d-block w-100" alt="...">
                                 </div>
                                 <div class="carousel-item">
                                 <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
@@ -203,7 +206,7 @@
                             <div class="row row-cols-1 row-cols-md-2 g-4">
                         <div class="col">
                             <div class="card">
-                            <img src="img/ambiental.jpg" class="card-img-top" alt="...">
+                            <img src="img/am8.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">1. Contaminación</h5>
                                 <p class="card-text">Ni la tierra, ni el aire, ni el resto de recursos tienen la misma calidad que hace unos años. Los gases de efecto invernadero han deteriorado dichos recursos, la mano del hombre a sido un factor fuerte en la contaminacion.</p>
@@ -212,7 +215,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                            <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                            <img src="img/am9.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">2. Deforestación</h5>
                                 <p class="card-text">Cada año desaparecen miles de kilómetros de bosques en el mundo. Se calcula que, desde 1990, se han destruido más de la mitad de los que observamos ahora. Además, los árboles mueren a un ritmo acelerado debido a la contaminación del aire, la sequía de fuentes hídricas aledañas y los cambios bruscos de temperatura. </p>
@@ -221,7 +224,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                            <img src="img/sociall.jpg" class="card-img-top" alt="...">
+                            <img src="img/am10.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">3. Sobreexplotación de los recursos naturales</h5>
                                 <p class="card-text">Los recursos naturales pronto serán insuficientes para la supervivencia de las personas que habitan la Tierra. La sobreexplotación de los recursos, el consumo irresponsable y el aumento de la población mundial, que se ha triplicado en los últimos 60 años y continúa creciendo a un ritmo acelerado, son las principales causas de este agotamiento. El agua y la energía disponibles no darán abasto para suplir tales necesidades. Además, la explotación de dichos recursos sigue en manos de empresas de países desarrollados que generan escasos beneficios en los sitios donde las extraen, lo que aumenta la desigualdad y obliga a muchas personas a abandonar su sitio de residencia en busca de zonas más aptas para la supervivencia.</p>
@@ -230,7 +233,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                            <img src="img/Pedir-ayuda.jpg" class="card-img-top" alt="...">
+                            <img src="img/am11.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">4. Uso de fertilizantes químicos y métodos artificiales de cultivo</h5>
                                 <p class="card-text">Las sequías, los huracanes y otros fenómenos ambientales impiden la producción y el cultivo de alimentos en condiciones normales. Con el fin de enmendar estos efectos y multiplicar la producción, se han sustituido los métodos de producción natural por otros de tipo artificial y en los que predomina el uso de sustancias químicas. Estos métodos de cultivo hacen que los alimentos sean de peor calidad y afectan negativamente a nuestra salud y la del medioambiente, pues contaminan los alimentos, la tierra y el aire.</p>
@@ -254,71 +257,67 @@
 
 
 
-         <!-- CARDS PROBLEMAS AMBIENTALES-->
+          <!-- CARDS PROBLEMAS AMBIENTALES-->
 
     
 
-        <div class="card-group">
+          <div class="row row-cols-1 row-cols-md-3 g-5">
+        <div class="col">
         <div class="card">
-            <img src="img/ambiental.jpg" class="card-img-top" alt="...">
+        <img src="img/am12.jpg" class="card-img-top" alt="...">
             <div class="card-body">
             <h5 class="card-title">Falta de zonas verdes</h5>
 
              <p class="card-text">Las ciudades, en su mayoría, cuentan con pocos espacios verdes, especialmente aquellas con planificaciones urbanísticas más antiguas y, por tanto, menos preocupadas por la calidad del ambiente urbano y del planeta. Numerosos estudios, los parques son esenciales para purificar el aire, aportan mayor calidad de vida y son espacios de interacción y relajación para los ciudadanos. Sin árboles y plantas no hay fotosíntesis, de manera que el aire no se renueva y empeora su calidad: esto influye directamente en la salud de las personas y provoca, por ejemplo, enfermedades respiratorias.</p>
             </div>
         </div>
+        </div>
+        <div class="col">
         <div class="card">
-            <img src="img/educacion.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
+        <img src="img/am13.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
             <h5 class="card-title">Contaminación acústica </h5>
 
              <p class="card-text">Las fábricas, el exceso de vehículos, los centros comerciales, los locales de ocio nocturno… La exposición a un nivel de ruido demasiado alto y de forma continuada repercute en nuestros oídos, pero también en otros aspectos de nuestra vida: causa problemas coronarios, agresividad, problemas hormonales, entre otros.</p>
             </div>
         </div>
+     </div>
+        <div class="col">
         <div class="card">
-            <img src="img/sociall.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
+            <img src="img/am14.jpg" class="card-img-top" alt="...">
+         <div class="card-body">
             <h5 class="card-title">Contaminación visual</h5>
 
              <p class="card-text">En las áreas urbanas se concentran un gran número de datos visuales: anuncios, carteles, escaparates… Y todos ellos hacen que nuestro cerebro se mantenga constantemente activo, lo cual puede desencadenar estrés o cefaleas. Ante ello, muchas ciudades en el mundo y en nuestro país, como es el caso de Ourense, trabajan insistentemente en diseñar normativas que garanticen un equilibrio de la comunicación visual con los espacios públicos en donde se exhiben.</p>
             </div>
         </div>
         </div>
-
-
-        <div class="card-group">
-        <div class="card">
-            <img src="img/ambiental.jpg" class="card-img-top" alt="...">
+        <div class="col">
+            <div class="card">
+            <img src="img/am15.jpg" class="card-img-top" alt="...">
             <div class="card-body">
             <h5 class="card-title">Acumulación de basura y de aguas residuales</h5>
 
-             <p class="card-text">La acumulación de los residuos es un problema a tener muy en cuenta en las ciudades: una vez se deposita desde nuestros hogares, un fallo en su gestión puede acabar desencadenando problemas con insectos o roedores. Pero, yendo más allá, una mala gestión en las plantas de tratado de residuos puede acarrear terribles consecuencias para el entorno, tal como sucede con las aguas residuales, que muchas veces son vertidas en los ríos o en el mar. No obstante, este es uno de los problemas ambientales que más se ha frenado en las últimas décadas.</p>
+            <p class="card-text">La acumulación de los residuos es un problema a tener muy en cuenta en las ciudades: una vez se deposita desde nuestros hogares, un fallo en su gestión puede acabar desencadenando problemas con insectos o roedores. Pero, yendo más allá, una mala gestión en las plantas de tratado de residuos puede acarrear terribles consecuencias para el entorno, tal como sucede con las aguas residuales, que muchas veces son vertidas en los ríos o en el mar. No obstante, este es uno de los problemas ambientales que más se ha frenado en las últimas décadas.</p>
+            </div>
             </div>
         </div>
-        <div class="card">
-            <img src="img/educacion.jpg" class="card-img-top" alt="...">
+        <div class="col">
+            <div class="card">
+            <img src="img/am16.jpg" class="card-img-top" alt="...">
             <div class="card-body">
             <h5 class="card-title">Congestión de tráfico</h5>
 
             <p class="card-text">El exceso de vehículos en las ciudades provoca problemas de contaminación del aire y empeora la calidad de vida de los ciudadanos: es causa de estrés y de diferentes problemas de salud, por lo que es uno de los problemas ambientales que más hay que tener en cuenta de cara al futuro. Las ciudades con más habitantes son, por defecto, las que más sufren estos problemas. Nueva York, Ciudad de México, Pekín o Río der Janeiro son algunos ejemplos claros de ello. <br>
 
-            
+
             Las ciudades y áreas urbanas se ven expuestas a muchos otros problemas ambientales. Sin embargo, como casi siempre, en nuestra mano está tomar medidas para revertir, en la medida de lo posible, su impacto sobre nuestro entorno más inmediato. Hoy puede es buen día para empezar.
             </p>
             </div>
+            </div>
         </div>
-        <div class="card">
-            <img src="img/sociall.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-            <h5 class="card-title">Congestión de tráfico</h5>
+        </div>
 
-            <p class="card-text">El exceso de vehículos en las ciudades provoca problemas de contaminación del aire y empeora la calidad de vida de los ciudadanos: es causa de estrés y de diferentes problemas de salud, por lo que es uno de los problemas ambientales que más hay que tener en cuenta de cara al futuro. Las ciudades con más habitantes son, por defecto, las que más sufren estos problemas. Nueva York, Ciudad de México, Pekín o Río der Janeiro son algunos ejemplos claros de ello. <br>
-
-            
-            Las ciudades y áreas urbanas se ven expuestas a muchos otros problemas ambientales. Sin embargo, como casi siempre, en nuestra mano está tomar medidas para revertir, en la medida de lo posible, su impacto sobre nuestro entorno más inmediato. Hoy puede es buen día para empezar.
-            </p>
-        </div>
-        </div>
         
           <!-- CARDS-->
 
@@ -337,7 +336,7 @@
                         <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item active">
-                        <img src="img/ambiental.jpg" class="d-block w-100" alt="...">
+                        <img src="img/am17.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
                         <img src="img/fondo3.jpg" class="d-block w-100" alt="...">
