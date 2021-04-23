@@ -5,6 +5,8 @@
 
 <div>
 
+<img src="img/co.jpg" alt="" >
+
 <ul> <h5>INDICE</h5> 
 
     <li>INTRODUCCION</li>
@@ -19,6 +21,7 @@
 
 </div>
 
+<img src="img/co1.png" alt="" >
 
     <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
@@ -39,7 +42,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/comunitario.jpg" alt="">
+        <img src="img/co2.png" alt="">
 
         <p>
         ¿Cuál es la mejor forma de cambiar la sociedad, enfrentarse a la desigualdad o ayudar a quienes más lo necesitan? Por supuesto, desde las instituciones y organismos públicos se puede hacer mucho, pero nosotros y nosotras, como conjunto de la ciudadanía, también podemos aportar nuestro granito de arena para mejorar diferentes ámbitos y hacer el mundo un poquito más justo. ¿Sabes cómo? ¡Hay varias maneras! Por ejemplo, el trabajo comunitario. <br>
@@ -62,7 +65,7 @@
              <div class="row row-cols-1 row-cols-md-3 g-6">
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co3.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">AYUDANDO A NIÑOS Y ESCUELAS</h5>
                     <p class="card-text">
@@ -89,7 +92,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co4.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">PROMOVER EL MEJORAMIENTO DE TU COMUNIDAD</h5>
                     <p class="card-text">
@@ -115,7 +118,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co5.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">AYUDANDO A LAS PERSONAS MAYORES</h5>
                     <p class="card-text">
@@ -141,7 +144,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co6.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">AYUDANDO A LOS ANIMALES Y AL MEDIO AMBIENTE</h5>
                     <p class="card-text">
@@ -169,7 +172,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co7.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">AYUDANDO A LOS MAS POBRES</h5>
                     <p class="card-text">
@@ -195,7 +198,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/comunitario.jpg" class="card-img-top" alt="...">
+                <img src="img/co8.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">REDUCIR EL CRIMEN Y PROMOVER LA SEGURIDAD</h5>
                     <p class="card-text">
@@ -227,7 +230,7 @@
         <div class="row py-4">
         <h6>¿Por qué deberías participar en el servicio comunitario?</h6> <br>
 
-        <img src="img/educacion.jpg" alt="">
+        <img src="img/co9.jpg" alt="">
 
         <p>Existen numerosos beneficios por participar en el servicio comunitario, tanto para ti como para otros. A continuación se presentan algunos de los beneficios más importantes del voluntariado: <br>
         </p>
@@ -248,7 +251,7 @@
         <div class="row py-4">
         <h6> Motivos para involucrarse</h6> <br>
 
-        <img src="img/educacion.jpg" alt="">
+        <img src="img/co10.jpg" alt="">
 
         <ul>
         <li>Se siente bien. La satisfacción y el orgullo de ayudar a otros son motivos importantes para ofrecerse como voluntario. Cuando uno compromete su tiempo y su esfuerzo con una organización o una causa a la que adhiere, la sensación de satisfacción puede ser enorme.</li>
@@ -264,7 +267,7 @@
         <div class="row py-4">
         <h6>¿Aún no sabes dónde ayudar?</h6> <br>
 
-        <img src="img/comunitario.jpg" alt="">
+        <img src="img/co11.jpg" alt="">
 
         <p>
         Si estás particularmente interesado en trabajar con niños o animales, por ejemplo, puedes encontrar fácilmente actividades de servicios comunitarios más relacionadas con tus intereses. <br>

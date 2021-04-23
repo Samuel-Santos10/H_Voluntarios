@@ -23,7 +23,7 @@
                     <img src="img/web.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">PAGINAS WEB</h5>
-                        <a href="#" class="btn btn-primary">IR PAGINAS WEB</a>
+                        <a href="p_web4" class="btn btn-primary">IR PAGINAS WEB</a>
                     </div>
                 </div>
             </div>

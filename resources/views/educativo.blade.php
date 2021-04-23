@@ -4,6 +4,8 @@
 
 <div>
 
+<img src="img/ed.png" alt="">
+
 <ul> <h5>INDICE</h5> 
 
     <li>INTRODUCCION</li>
@@ -16,8 +18,9 @@
 
 </div>
 
-
+<img src="img/ed1.jpg" alt="">
     <div class="row py-4">
+
         <h6>INTRODUCCION</h6> <br>
 
         <p>
@@ -34,7 +37,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/educacion.jpg" alt="">
+        <img src="img/ed2.jpg" alt="">
 
         <p>
        Debes tener los conocimientos básicos para poder ayudar en las áreas de voluntariado educativo. <br>
@@ -57,7 +60,7 @@
               <div class="row row-cols-1 row-cols-md-3 g-5">
                 <div class="col">
                     <div class="card">
-                    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Apoyo a la lectura</h5>
                         <p class="card-text">Un voluntariado educativo busca que la Lectura Fácil o apoyo a la lectura sea un apoyo para las personas con dificultades de comprensión lectora. Por ejemplo, para personas mayores, personas con discapacidad, o personas que no saben escribir bien.</p>
@@ -66,7 +69,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed4.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Alfabetización</h5>
                         <p class="card-text">La alfabetización se logra mediante actividades que se desarrolla para que una persona pueda aprender a escribir y a leer. El voluntariado con personas mayores se encarga de dar apoyo a las personas mayores en su domicilio, en residencias de Tercera edad o en Centros de día. Como voluntario/a en este ámbito puedes realizar labores de acompañamiento, apoyo emocional y asistencial, organización de actividades de ocio, alfabetización digital</p>
@@ -75,7 +78,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Educación inclusiva</h5>
                         <p class="card-text">La educación inclusiva supone un modelo de educación que pretende atender a las necesidades de todos los niños y niñas, jóvenes y adultos considerando especialmente aquellos casos en los que puede existir un riesgo de exclusión social. No se trata solo de prestar atención a personas con discapacidad sino a todas las personas sin distinguir por la raza, la condición social, la cultura o la religión, entre otros aspectos.</p>
@@ -84,7 +87,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Educación en tiempo libre</h5>
                         <p class="card-text">La educación en el tiempo libre educa en valores a los niños/as y jóvenes en su tiempo libre y es un espacio de formación y participación comunitaria con voluntad de transformación e inclusión social. Puesto que la educación en el tiempo libre es una intervención global en el proceso de formación integral de la personalidad de los niños/as.</p>
@@ -93,7 +96,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed7.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Educación en comunidades</h5>
                         <p class="card-text">La educación comunitaria es la participación de padres y organizaciones naturales, docentes, voluntarios y estudiantes en la operación de las unidades educativas centrales, la zona, la región o el nivel plurinacional, en la gestión educativa, en la definición de sus propósitos generales, en la toma de decisiones importantes para la vida escolar, respondiendo de manera apropiada y pertinente a las necesidades de las personas de una comunidad. </p>
@@ -117,7 +120,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="img/fondo1.jpg" class="d-block w-100" alt="...">
+                <img src="img/ed8.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                 <img src="img/fondo2.jpg" class="d-block w-100" alt="...">
@@ -142,7 +145,7 @@
         <div class="row py-4">
         <h6>¿Cómo podrías resolver los problemas educativos?</h6> <br>
 
-        <img src="img/educacion.jpg" alt="">
+        <img src="img/ed9.jpg" alt="">
 
         <p>
         Para lograr un aprendizaje significativo, el estudiante debe contar con una serie de factores positivos que contribuyan a su desarrollo integral, tales como: <br>
@@ -176,13 +179,13 @@
         Los voluntarios de la escuela pueden ser padres/tutores, miembros de la comunidad, personas de la tercera edad o estudiantes de grados superiores cuya participación apoya un programa, actividad o evento de la escuela. 
         </p>
 
-       <img src="img/educacion.jpg" alt="">
+       <img src="img/ed10.jpg" alt="">
 
        <p>
        El tiempo y compromiso que implica depende de la disponibilidad del voluntario. Y, puede variar en trabajos de una sola vez a actividades mensuales, semanales o diarias requeridas para cumplir con las metas, necesidades y prioridades de una escuela o comunidad para ayudar a asegurar el éxito del estudiante u otros.
        </p>
 
-       <img src="img/educacion.jpg" alt="">
+       <img src="img/ed11.jpg" alt="">
        
         </div>
 
