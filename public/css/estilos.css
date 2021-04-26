@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgba(154, 203, 235, 0.664);
+}
+
+ul{
+    display: flex;
+  flex-direction: column;
+  align-items: center; 
+  padding: 2px 5px;               
+              
+}
+
+p{
+    text-align: justify;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+
+img{
+     height: auto;
+     width: auto;
+     max-width: 600px;
+     max-height: 500px;
+}
