@@ -1,4 +1,5 @@
 <?php
+use Illuminate\Support\Facades\Route;
 
 
 /*
@@ -11,6 +12,13 @@
 | contains the "web" middleware group. Now create something great!
 |
         */
+
+        Auth::routes();
+
+        Route::apiResources([
+                'empresas'=>EmpresasController::class,
+        ]);
+
         Route::view('/', 'home1')->name('home1');
 
         Route::view('/informate', 'informate')->name('informate');
@@ -52,6 +60,5 @@
         Route::view('/p_web5', 'p_web5')->name('p_web5');
 
         Route::view('/p_web6', 'p_web6')->name('p_web6');
-Auth::routes();
 
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');
