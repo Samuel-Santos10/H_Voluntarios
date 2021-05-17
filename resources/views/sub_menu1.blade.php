@@ -1,4 +1,4 @@
-        @extends('layout')
+       <!-- @extends('layout')
 
         @section('contenidos')
 
@@ -7,7 +7,7 @@
 
 
 
-        <!-- CARDS-->
+         CARDS
         <div class="row row-cols-1 row-cols-md-2 g-2">
             <div class="col">
                 <div class="card">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <!-- CARDS-->
+         CARDS
 
 
-        @endsection
+        @endsection -->

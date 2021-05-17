@@ -27,7 +27,7 @@
 <div id="app">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">HEROES VOLUNTARIOS</a>
+                <a class="navbar-brand" href="#">Heroes voluntarios</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -37,19 +37,23 @@
 
 
                         <li class="nav-item">
-                                <a class="nav-link"  href="/">HOME</a>
+                                <a class="nav-link"  href="/">Inicio</a>
                         </li>
                             
                         <li class="nav-item">
-                            <a class="nav-link"  href="/quienesSomos">QUIENES SOMOS</a>
+                            <a class="nav-link"  href="/quienesSomos">Quienes somos</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link"  href="/informate">INFORMATE</a>
+                            <a class="nav-link"  href="/informate">Informate</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" @click="abrirForm('empresa')" href="#">EMPRESA</a>
+                            <a class="nav-link" @click="abrirForm('empresa')" href="#">Empresas/ONG</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/deberes">Deberes/derechos</a>
                         </li>
 
                     </ul>
