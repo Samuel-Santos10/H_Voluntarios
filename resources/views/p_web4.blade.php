@@ -1,10 +1,11 @@
-@extends('layout')
+
+ <!--@extends('layout')
 
 @section('contenidos')
 
 
 
-
+ 
     <div class="col-12 align-self-center text-center">
     <h3>PAGINAS WEB VOLUNTARIADO AMBIENTAL</h3>
 
@@ -38,7 +39,9 @@
         <br>
         </p>
     </div>
-
+    
 
 
 @endsection
+
+-->

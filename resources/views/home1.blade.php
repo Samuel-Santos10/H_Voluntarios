@@ -2,8 +2,23 @@
 
 @section('contenidos')
 
+<div class="card-group animate__animated animate__fadeInLeft">
+  <div class="card text-center" style="width: 18rem;">
+    <img src="img/ambiental.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Empresas</h5>
+      <a href="ambiental" class="btn btn-primary">Ir ambiental</a>
+    </div>
+  </div>
+  <div class="card text-dark bg-light">
+    <img src="img/educacion.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Educativo</h5>
+      <a href="ONG" class="btn btn-primary">Ir educativo</a>
+    </div>
 
-       <!-- contenido o codigo de home-->
+
+       <!-- contenido o codigo de home
 
 <header class="container-fluid">
          <div class="row" style="height:680px; background-color:#A5FAE7">
@@ -19,7 +34,7 @@
          </div>
          </div>
 
-       <!-- CAROUSEL-->
+        CAROUSEL
       <div id="mainSlider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item ">
@@ -33,10 +48,14 @@
           </div>
         </div>
     </div>
-    <!-- CAROUSEL-->
+    CAROUSEL
 
    
     </div>
          </header>
+
+         -->
+
+         
 
 @endsection
