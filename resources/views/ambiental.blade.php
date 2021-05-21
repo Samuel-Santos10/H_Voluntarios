@@ -7,7 +7,7 @@
 
 <div class="col-12 align-self-center">
 
-    <img src="img/am.png" alt="">
+    <img src="img/Ai.jpg" alt="">
 
     <h5>INDICE</h5>
     <ul id="valores">

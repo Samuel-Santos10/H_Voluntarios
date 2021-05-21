@@ -24,7 +24,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        //return view('home');
-        return view('layout');
+        return view('home1');
+        //return view('layout');
     }
 }
