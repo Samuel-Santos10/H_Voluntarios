@@ -4,7 +4,7 @@
 
 <div>
 
-<img src="img/ed.png" alt="">
+<img src="img/Ei.jpg" alt="">
 
 <ul> <h5>INDICE</h5> 
 

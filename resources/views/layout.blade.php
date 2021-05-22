@@ -53,7 +53,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link"  href="/deberes">Deberes/derechos</a>
+                            <a class="nav-link"  href="/deberes">Derechos/Deberes</a>
                         </li>
 
                     </ul>

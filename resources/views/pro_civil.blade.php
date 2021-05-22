@@ -5,7 +5,7 @@
 
 <div>
 
-<img src="img/pv.jpg" alt="">
+<img src="img/Pi.jpg" alt="">
 
 <ul> <h5>INDICE</h5> 
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="img/pv1.jpg" alt="">
+<img src="img/vpc.jpg" alt="">
 
 <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
@@ -38,7 +38,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/pv2.jpg" alt="">
+        <img src="img/saber.jpg" alt="">
 
         <p>
         En primer lugar, debes de saber que eres bienvenido a formar parte de este programa que tiene como fin el ayudar a las personas en las diferentes emergencias de las que pueden ser víctimas. <br>
@@ -68,7 +68,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/pv4.jpg" class="card-img-top" alt="...">
+      <img src="img/fuego.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Incensios forestales</h5>
         <p class="card-text">Estos se producen por causas naturales, ya sea por la caída de un rayo, erupciones o por las altas temperaturas entre otras, en estos casos lo que debes de realizar es identificar si hay alguna o mas victimas de quemaduras, en caso de haberlo, trasladarlos a un lugar seguro donde será atentado por los de cruz roja u otra,  sucesivamente deberás de seguir la inspección de posibles victimas del fenómeno, cabe mencionar que tambien tienes que salvar a los animales que estén siendo victimas del desastre y ponerlos en un lugar seguro, tambien deberás de pedirles a los posibles visitantes que se alejen del fuego para evitar mas víctimas, una vez te hallas asegurado de todo esto, deberás de poner en marcha el plan para controlar el incendio.</p>
@@ -77,7 +77,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/pv5.jpg" class="card-img-top" alt="...">
+      <img src="img/terremoto.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Terremotos</h5>
         <p class="card-text">Este fenómeno tambien es muy común, por lo que para realizar rescates cuando se produzca este tipo de fenómenos debes de tomar en cuenta en primer lugar es mantener la calma ya que esta te ayudara a tomar las mejores decisiones, tambien tienes que alejar aquellas personas que este en las cercanías de alguna pared para evitar más víctimas, tambien debes de evitar mover cualquier columna o restos de escombros, ya que en caso de a ver victimas con vida enterradas, podrías causarles más lesiones o casar su muerte, tambien debes de tener en cuenta siempre seguir el plan que tus superiores te darán a conocer una vez hallan evaluado la situación, tambien debes de evacuar a las víctimas de estos pero que tienen lesiones leves, Por último debes de proceder a realizar el rescate de aquellas personas que estén bajo escombros pero con las herramientas necesarias y con la ayuda de los demás compañeros.</p>

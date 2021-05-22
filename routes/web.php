@@ -61,4 +61,6 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/p_web6', 'p_web6')->name('p_web6');
 
+        Route::view('/deberes', 'deberes')->name('deberes');
+
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');

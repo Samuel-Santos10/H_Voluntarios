@@ -3,7 +3,7 @@
 @section('contenidos')
 
 <div>
-<img src="img/sn.jpg" alt="" >
+<img src="img/Soi.jpg" alt="" >
 
 <ul> <h5>INDICE</h5> 
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="img/sn1.jpg" alt="">
+<img src="img/soi1.jpg" alt="">
     <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
 
@@ -231,7 +231,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/ss.jpg" class="card-img-top" alt="...">
+            <img src="img/respeto.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">3. Actitud de respeto hacia los usuarios y familiares</h5>
                 <p class="card-text">Debes de mostrar un respeto hacia tu paciente y demás, así como la familia de este.
@@ -241,7 +241,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/ss1.jpg" class="card-img-top" alt="...">
+            <img src="img/costumbres.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">4. Respetar las costumbres de los usuarios</h5>
                 <p class="card-text">Cada persona tiene costumbres o tradiciones diferentes, por lo que debes de mantener en todo momento un respeto hacia a de los demás, esto mostrará tu profesionalismo y personalidad, lo cual dará una buena impresión al usuario o familiares del usuario que estas atendiendo.</p>
@@ -262,7 +262,7 @@
                 <div class="row row-cols-1 row-cols-md-4 g-8">
         <div class="col">
             <div class="card">
-            <img src="img/sn14.jpg" class="card-img-top" alt="...">
+            <img src="img/comunicacion.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">1. Saber comunicarse a través de la comunicación verbal y no verbal</h5>
                 <p class="card-text">Es muy importante que seas una persona que sea muy social, es decir que sepa como expresarse de diferentes maneras, ya que no sabes a que desafío te enfrentaras.</p>
@@ -271,7 +271,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/sn15.jpg" class="card-img-top" alt="...">
+            <img src="img/asertivo.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">2. Ser asertivo</h5>
             </div>
@@ -279,7 +279,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/sn16.jpg" class="card-img-top" alt="...">
+            <img src="img/criticas.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">3. Saber aceptar críticas</h5>
                 <p class="card-text">Es decir, saber aceptar todos aquellos comentarios negativos que te hagan, y tratar de saber llevar la situación en el momento. 
@@ -289,7 +289,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/sn17.png" class="card-img-top" alt="...">
+            <img src="img/escuchar.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">4. Saber escuchar</h5>
                 <p class="card-text">Escuchar es aprender, por lo cual debes de saber escuchar a todas las personas, en especial aquellas 
@@ -301,7 +301,7 @@
         </div>
         <div class="col">
             <div class="card">
-            <img src="img/sn18.png" class="card-img-top" alt="...">
+            <img src="img/conflixtos.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">5. Desarrollar técnicas para resolver situaciones conflictivas.</h5>
             </div>

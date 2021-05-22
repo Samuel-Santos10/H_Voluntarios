@@ -7,7 +7,7 @@
 
 
         <div>
-        <img src="img/so.jpg" alt="">
+        <img src="img/Si.jpg" alt="">
             <ul> <h5>INDICE</h5> 
 
                 <li>INTRODUCCION</li>
@@ -83,7 +83,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/soc6.jpg" class="card-img-top" alt="...">
+      <img src="img/discapacidad.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Discapacidad</h5>
         <p class="card-text">La discapacidad es una de las áreas mas olvidadas de nuestra sociedad, en esa área de voluntariado debes de tener en cuenta que en primer lugar al formar parte de esta área le estas mejorando la calidad e vida y la autonomía de las personas con diversidad de funcional o discapacidad, en esta área debes de tener en cuenta que debes de entablas una relación muy cercana a la persona, es decir, tienes que acompañarla en su vida diaria, tambien debes de apoyarla en actividades de integración de la sociedad, en sus actividades de inserción laboral y en el apoyo familiar, por ello al ser de esta área debes de tener en cuenta todas estas  condiciones que te permitiran ser de esta area.</p>
@@ -104,7 +104,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/soc8.jpg" class="card-img-top" alt="...">
+      <img src="img/familia.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Infancia, juventud y familia</h5>
         <p class="card-text">Esta área tienes que tener en cuenta que las acciones que tienes como labor son llevar tanto a niños como adolescentes y familias son, motivarlas a participar en proyectos de ocio y de tiempo libre, tambien en proyectos educativos, debes de divulgarles los derechos que estos poseen, debes de integrarlos a programas o eventos que se realizan en la comunidad con el fin de romper esa barrera que las mismas personas se ponen hacia con las demás personas. </p>
@@ -143,7 +143,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/soc11.png" class="card-img-top" alt="...">
+                    <img src="img/iniciativa.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Iniciativa</h5>
                         <p class="card-text">Debes de ser una persona con mucha dispocision he iniciativa ya que hay areas en las que debes de ser una persona con una mentalidad dinamica y emprenderdora.</p>
@@ -152,7 +152,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/soc10.png" class="card-img-top" alt="...">
+                    <img src="img/Conocimiento.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Conocimientos</h5>
                         <p class="card-text">Debes ser una persona con conocimientos basicos de acuerdo al area en la que quieres formar parte.</p>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                    <img src="img/soc12.jpg" class="card-img-top" alt="...">
+                    <img src="img/responsabilidad.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Responsable</h5>
                         <p class="card-text">Ante todo debes ser conciente del compromiso que adquiriras al ser parte de un voluntariado, por lo cual debes de ser conciente del dasafio al que haz emprendido y tomarlo con la mayor responsabilidad.</p>
