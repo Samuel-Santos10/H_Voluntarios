@@ -36,25 +36,18 @@
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
 
-                        <li class="nav-item">
+                    <li class="nav-item">
                                 <a class="nav-link"  href="/">Inicio</a>
                         </li>
                             
                         <li class="nav-item">
-                            <a class="nav-link"  href="/quienesSomos">Quienes somos</a>
+                            <a class="nav-link"  href="/layout_empresas">Empresas/ONG</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link"  href="/informate">Informate</a>
+                            <a class="nav-link"  href="/layout_voluntarios">Voluntarios</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" @click="abrirForm('empresa')" href="#">Empresas/ONG</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link"  href="/deberes">Derechos/Deberes</a>
-                        </li>
 
                     </ul>
 
@@ -93,7 +86,7 @@
                 </div>
             </div>
         </nav>
-        <empresas-component v-bind:form="forms" ref="empresa" v-show="forms['empresa'].mostrar"></empresas-component>
+        
         </div>
 
         <script src="https://unpkg.com/vue-resizable@1"></script>

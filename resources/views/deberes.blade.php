@@ -1,6 +1,6 @@
-@extends('layout')
+@extends('layout_voluntarios')
 
-@section('contenidos')
+@section('contenid')
 
 <link href="/css/derechos.css" rel="stylesheet">  
 <head>

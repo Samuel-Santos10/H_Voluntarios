@@ -1,6 +1,6 @@
-@extends('layout')
+@extends('layout_voluntarios')
 
-@section('contenidos')
+@section('contenid')
 
 <link href="/css/informate.css" rel="stylesheet">
 

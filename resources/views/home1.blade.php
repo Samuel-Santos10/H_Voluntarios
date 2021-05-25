@@ -35,7 +35,7 @@
         </div>
         </div>
 
-        Carusel
+      
 
         <div class="container">
             <div class="row">
