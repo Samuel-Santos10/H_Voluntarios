@@ -4,9 +4,9 @@
  * building robust, powerful web applications using Vue and Laravel.
  */
 
- require('./bootstrap');
+require('./bootstrap');
 
- window.Vue = require('vue');
+window.Vue = require('vue');
  window.Vue = require('vue').default;
 window.db = '';
 window.generarIdUnicoDesdeFecha=()=>{
@@ -15,6 +15,7 @@ window.generarIdUnicoDesdeFecha=()=>{
 };
 
 import 'vue-select/dist/vue-select.css';
+window.socket = io.connect('http://localhost:3001', {'forceNew':true});
 
  /**
   * The following block of code may be used to automatically register your
@@ -29,6 +30,7 @@ import 'vue-select/dist/vue-select.css';
  
  Vue.component('empresas-component', require('./components/empresas.vue').default);
  Vue.component('mensajes-component', require('./components/mensajes.vue').default);
+ Vue.component('chat-component', require('./components/chat.vue').default);
 
  /**
   * Next, we will create a fresh Vue application instance and attach it to
@@ -42,6 +44,7 @@ import 'vue-select/dist/vue-select.css';
         forms:{
         
             'empresa':{mostrar:false},
+            'chat':{mostrar:false},
     
         }
     },
@@ -73,4 +76,6 @@ import 'vue-select/dist/vue-select.css';
     created(){
         this.abrirBd();
     },
+
+    
 });
