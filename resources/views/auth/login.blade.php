@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header bg-primary">{{ __('Login') }}</div>
 
-                <div class="card-body bg-primary">
+                <div class="card-body ">
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
 
@@ -53,7 +53,7 @@
 
                         <div class="form-group row mb-0">
                             <div class="col-md-8 offset-md-4">
-                                <button type="submit" class="btn btn-success text-dark">
+                                <button type="submit" class="btn btn-primary text-dark">
                                     {{ __('Iniciar sesion') }}
                                 </button>
 

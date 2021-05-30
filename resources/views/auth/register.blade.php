@@ -1,13 +1,14 @@
 @extends('layouts.app')
 
 @section('content')
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header bg-primary">{{ __('Registrarse') }}</div>
 
-                <div class="card-body bg-primary">
+                <div class="card-body ">
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
 
@@ -61,17 +62,30 @@
                             </div>
                         </div>
 
+                      <div class="form-group row ">
+                            <div class="col-md-8 offset-md-4">
+                                <label class="text-dark btn-block">
+                                       <input type="checkbox" name="terminos" tabindex="7" value="1" required> 
+                                       Acepto los <a style="color:blue;" href="terminos">terminos y condiciones</a>
+                                </label>
+                            </div>
+                        </div>
+
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
-                                <button type="submit" class="btn btn-success text-dark">
+                                <button sendbtn.disabled = this.checked ? true : false; type="submit" class="btn btn-primary text-dark">
                                     {{ __('Registrarse') }}
                                 </button>
                             </div>
-                        </div>
+                        </div> 
                     </form>
+                   
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+<script src="{{ asset('js/app.js') }}"></script>
+
 @endsection
