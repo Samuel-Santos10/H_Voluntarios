@@ -15,15 +15,16 @@
                 <div class="text">
                     <h3>Misión - Visión</h3>
                     <p>
-                        Nuestra misión es extender nuestro conocimiento en el área de desarrollo <br>
-                        software con el uso de frameworks ágiles trabajando en base a la armonía y <br>
-                        comunicación en el equipo de trabajo.<br>
+                         Nuestra misión como empresa es realizar, diseñar software de calidad, para que<br>
+                        nuestros clientes tengan la certeza de que somos una empresa de confianza<br>
+                        con la cual ellos puedan confiarnos sus productos.<br>
                     </p>
 
                     <p>
-                        Nuestra visión es ser un equipo distinguido, multifuncional y motivador que <br>
-                        desarrolle un producto funcional que nos enorgullezca como equipo teniendo <br>
-                        siempre presente nuestros principios y valores. <br>
+                        Como empresa tenemos como visión ser una entidad en la cual siempre este<br>
+                        familiarizada y realizando software con tecnologias nuevas que van surgiendo<br>
+                        esto con el unico fin de que nuestros clientes obtengan productos con tenologias<br>
+                        emergentes.
                     </p>
                 </div>
 

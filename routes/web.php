@@ -70,5 +70,13 @@ use Illuminate\Support\Facades\Route;
         Route::view('/Empresa1', 'Empresa1')->name('Empresa1');
 
         Route::view('/terminos', 'terminos')->name('terminos');
+
+        Route::view('/historias_voluntarios', 'historias_voluntarios')->name('historias_voluntarios');
+
+        Route::view('/beneficios_ayudas', 'beneficios_ayudas')->name('beneficios_ayudas');
+     
+        Route::view('/ayuda', 'ayuda')->name('ayuda');
+
+        Route::view('/tipos_voluntarios', 'tipos_voluntarios')->name('tipos_voluntarios');
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');

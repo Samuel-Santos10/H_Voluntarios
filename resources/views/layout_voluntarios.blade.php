@@ -48,9 +48,31 @@
                             <a class="nav-link"  href="/deberes">Derechos/Deberes</a>
                         </li>
 
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/historias_voluntarios">Historias de voluntarios</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/beneficios_ayudas">Beneficios</a>
+                        </li>
+
+                        
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/tipos_voluntarios">Tipos de voluntarios</a>
+                        </li>
+                        
                     </ul>
                 </div>
             </div>
+
+            <ul class="navbar-nav ml-auto">
+
+            <li class="nav-item">
+             <a class="nav-link"  href="/ayuda">Ayuda</a>
+            </li>
+
+            </ul>
+
         </nav>
    
         </div>
