@@ -13,6 +13,28 @@ window.generarIdUnicoDesdeFecha=()=>{
     let fecha = new Date();//03/02/2021
     return Math.floor(fecha.getTime()/1000).toString(16);
 };
+ //Notificaiones
+ if( !Notification ){
+    alert("Tu navegador no soporta las notificacion");
+}
+window.permitirNotificaion = "default";
+Notification.requestPermission().then(result=>{
+   window.permitirNotificacion = result;
+});
+
+window.windowFocus = false;
+document.addEventListener("DOMContentLoaded",e=>{
+    window.addEventListener("blur",e=>{
+        window.windowFocus=false;
+        console.log("Fuera de la pantalla");
+    });
+    window.addEventListener("focus",e=>{
+        window.windowFocus=true;
+        console.log("Dentro de la pantalla");
+    
+    })
+    
+});
 
 import 'vue-select/dist/vue-select.css';
 window.socket = io.connect('http://localhost:3001', {'forceNew':true});
@@ -24,13 +46,14 @@ window.socket = io.connect('http://localhost:3001', {'forceNew':true});
   *
   * Eg. ./components/ExampleComponent.vue -> <example-component></example-component>
   */
- 
+
  // const files = require.context('./', true, /\.vue$/i)
  // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
  
  Vue.component('empresas-component', require('./components/empresas.vue').default);
  Vue.component('mensajes-component', require('./components/mensajes.vue').default);
  Vue.component('chat-component', require('./components/chat.vue').default);
+
 
  /**
   * Next, we will create a fresh Vue application instance and attach it to
