@@ -6,7 +6,7 @@
                     <div class="card-header bg-dark text-white toolbar">
                         <div class="row">
                             <div class="col-1">
-                                <img src="../../../public/img/chat.png" alt="Chats">
+                                <img src="/img/chat.png" alt="Chats">
                             </div>
                             <div class="col-9">
                                 <h5>CHATS</h5>
@@ -19,7 +19,7 @@
                     <div class="card-body text-dark">
                         <div class="row p-2">
                             <div class="col-sm">
-                                <ul>
+                                <ul id="ltsMensajes">
                                    <li v-for="mimsg in chats" :key="mimsg._id">{{ mimsg.from }} : {{ mimsg.msg }}</li> 
                                 </ul>
                             </div>
@@ -35,7 +35,7 @@
                             </div>
                             <div class="col">
                                 <a @click="guardarChat">
-                                    <img src="../../../public/img/enviar.png" width="50" height="50" alt="Enviar">
+                                    <img src="/img/enviar.png" width="10" height="15" alt="Enviar">
                                 </a>
                             </div>
                         </div>
@@ -131,13 +131,36 @@
                 this.chat.fecha='';
                 this.obtenerDatos();
             },
+            //Notificaiones
+            mostrarNotificaciones(user, msg){
+                 if( !windowFocus ){
+                    if(Notification.permission=="granted"){
+                    let options = {
+                        body:msg,
+                        icon: "/img/chat.png"
+                    };
+                    let notificacion = new Notification(user, options);
+                    } else {
+                        alert("No hay permiso para mostrar las notificaiones");
+                    }
+                }
+           }
         },
         created(){
             this.obtenerDatos();
             socket.on('chat',chat=>{
                 this.mostrarDatos(chat);
+                this.mostrarNotificaciones(chat.from, chat.msg);
             });
         },
     }
 </script>
 
+<style>
+    #ltsMensajes{
+        width: 450px;
+        height: 350px;
+        overflow-y: scroll;
+    }
+    
+</style>

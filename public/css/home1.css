@@ -3,18 +3,12 @@
     padding: 0;
 }
 
-img{
-    width: 450px;
-    height: auto;
-    margin: auto;
+body h1{
+    padding: 235px;
     background-size:  100% 100%;
-}
-
-.slide{
-    margin-top: 10px;
-}
-
-.slider img{
-    height: 65vh;
-}
+    background-image: url(../img/HV.jpeg);
+    text-align: center;
+    font-size: 50px;
+    color: rgb(207, 23, 84);
+  }
 

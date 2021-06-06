@@ -41,6 +41,15 @@ const http = require("http").Server(),
       mongodb = require('mongodb').MongoClient,
       url = 'mongodb://localhost:27017';
       dbname = 'chatDB';
+      ////////////////////////
+      webpush = require('web-push'), //https://www.npmjs.com/package/web-push --> aqui sacamos los comandos para generar las llaves por si te fijas cuando lo clones
+      vapidKeys = {
+          publicKey:'BBLqx3_KRDPZ83j0-pal5uP-oxz7j5JsCComm5pCgfv0lXqCGqKJH69Tx7TKhDAhfVQ5etWgb0h_PXDEMLakZUU',
+          privateKey:'77_zQg27_rJePVxI_yGHO3g6onU3qaQPAo_itJw5wiU'
+      };
+  var pushSubscription; //Esta subscripcion hay que almacenarla en una BD;
+  webpush.setVapidDetails("mailto:usis022519@ugb.edu.sv", vapidKeys.publicKey, vapidKeys.privateKey);
+  ///////
 
 http.listen(port,()=>{
     console.log("Ejecutandose nuestra app con socket.io en node por el puerto", port);
@@ -54,6 +63,13 @@ io.on('connection', socket=>{
             const db = client.db(dbname);
             db.collection("chat").insertOne(chat).then((result)=>{
                 io.emit("chat",chat); // en este envia mensaje a todos 
+                /////
+                try{
+                    const data = JSON.stringify({title:chat.from, msg:chat.msg});
+                    webpush.sendNotification(pushSubscription, data);
+                }catch(e){
+                    console.log("Error al enviar la notificacion PUSH", e);
+                }
             });
         });
     });
@@ -65,6 +81,10 @@ io.on('connection', socket=>{
                 socket.emit('historial', msgs); // y aqui solo aquien solicita la informacion
             });
         });
+    });
+    socket.on('subscription',subscription=>{
+        pushSubscription = JSON.parse(subscription);
+        console.log("subscripcion: ", subscription);
     });
 });
 

@@ -17,25 +17,28 @@
 <body>
 
     <div class="col-12 align-self-center text-center">
-        <img src="{{asset('img/loogo.jpg')}}" class="img-fluid" width="200px" alt="fgf">
+
+    <main class="animate__animated animate__fadeInLeft">
+
+        <section id=test>
+            <h1>Heroes voluntarios</h1>
+        </section>
+
+          <img src="{{asset('img/loogo.jpg')}}" class="img-fluid"alt="fgf">
     </div>
     <header class="container-fluid">
         <div class="row" style="height:170px; background-color:#A5FAE7">
             <div class="col-12 align-self-center text-center">
                 <h3>¿QUÉ HACEMOS?</h3>
-                <p>La Fundación Internacional de Jóvenes Líderes es una entidad conformada por diversos referentes
-                    mundiales
-                    que <br> buscan brindar herramientas de desarrollo a las nuevas generaciones. Trabajamos en
-                    programas
-                    que estimulan el espíritu <br> emprendedor y de liderazgo. En ese camino ofrecemos becas de estudio,
-                    jornadas de networking y voluntariado <br> social. Asimismo, propiciamos la emisión de informes
-                    sobre
-                    problemáticas relacionadas con el sector. </p>
+                <p> Somos una empresa que brinda una herramienta a aquellas empresas y organizaciones para <br>
+                    poder conectar a las diferentes empresas y personas que ofrecen servicios en El Salvador <br>
+                    para que personas que quieran ofrecer sus servicios vean en esta herramienta que les estamos <br>
+                    brindado una opcion para que estos puedan unirse al servicio de voluntariado. </p>
             </div>
         </div>
         </div>
-
       
+    </main>
 
         <div class="container">
             <div class="row">
