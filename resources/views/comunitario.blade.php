@@ -5,7 +5,7 @@
 
 <div>
 
-<img src="img/Ci.jpg" alt="" >
+<img src="img/Ci.jpg" width="1350px" height="600px" alt="" >
 
 <ul> <h5>INDICE</h5> 
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="img/comm.jpg" alt="" >
+<img src="img/comm.jpg" width="1350px" height="400px" alt="" >
 
     <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
@@ -42,7 +42,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/sber.jpg" alt="">
+        <img src="img/sber.jpg" height="400px" alt="">
 
         <p>
         ¿Cuál es la mejor forma de cambiar la sociedad, enfrentarse a la desigualdad o ayudar a quienes más lo necesitan? Por supuesto, desde las instituciones y organismos públicos se puede hacer mucho, pero nosotros y nosotras, como conjunto de la ciudadanía, también podemos aportar nuestro granito de arena para mejorar diferentes ámbitos y hacer el mundo un poquito más justo. ¿Sabes cómo? ¡Hay varias maneras! Por ejemplo, el trabajo comunitario. <br>
@@ -230,7 +230,7 @@
         <div class="row py-4">
         <h6>¿Por qué deberías participar en el servicio comunitario?</h6> <br>
 
-        <img src="img/por.jpg" alt="">
+        <img src="img/por.jpg" height="500px" alt="">
 
         <p>Existen numerosos beneficios por participar en el servicio comunitario, tanto para ti como para otros. A continuación se presentan algunos de los beneficios más importantes del voluntariado: <br>
         </p>
@@ -251,7 +251,7 @@
         <div class="row py-4">
         <h6> Motivos para involucrarse</h6> <br>
 
-        <img src="img/motivos.jpg" alt="">
+        <img src="img/motivos.jpg" height="400px" alt="">
 
         <ul>
         <li>Se siente bien. La satisfacción y el orgullo de ayudar a otros son motivos importantes para ofrecerse como voluntario. Cuando uno compromete su tiempo y su esfuerzo con una organización o una causa a la que adhiere, la sensación de satisfacción puede ser enorme.</li>
@@ -267,7 +267,7 @@
         <div class="row py-4">
         <h6>¿Aún no sabes dónde ayudar?</h6> <br>
 
-        <img src="img/co11.jpg" alt="">
+        <img src="img/co11.jpg" height="500px" alt="">
 
         <p>
         Si estás particularmente interesado en trabajar con niños o animales, por ejemplo, puedes encontrar fácilmente actividades de servicios comunitarios más relacionadas con tus intereses. <br>

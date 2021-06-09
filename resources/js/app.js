@@ -99,6 +99,4 @@ window.socket = io.connect('http://localhost:3001', {'forceNew':true});
     created(){
         this.abrirBd();
     },
-
-    
 });

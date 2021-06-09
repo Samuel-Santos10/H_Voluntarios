@@ -3,7 +3,7 @@
 @section('contenidos')
 
 <div>
-<img src="img/Soi.jpg" alt="" >
+<img src="img/Soi.jpg" width="1350px" height="500px" alt="" >
 
 <ul> <h5>INDICE</h5> 
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="img/soi1.jpg" alt="">
+<img src="img/soi1.jpg" width="1350px" height="400px" alt="">
     <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
 
@@ -37,7 +37,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/sn2.png" alt="">
+        <img src="img/sn2.png" width="1350px" height="500px" alt="">
 
         <p>
         Debes tener los conocimientos básicos como primeros medicación, salud o nutrición entre otros, esto con el fin  que puedas formar parte en esta área de voluntariado.  <br>

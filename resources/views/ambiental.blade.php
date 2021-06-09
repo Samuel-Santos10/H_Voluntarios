@@ -3,11 +3,11 @@
 @section('contenidos')
 
 
+<link rel="stylesheet" href="/css/ambiental.css">
 
+<div class="col-12 align-self-center" id="imas">
 
-<div class="col-12 align-self-center">
-
-    <img src="img/Ai.jpg" alt="">
+   <img src="img/Ai.jpg" width="1350px" height="400px" alt="">
 
     <h5>INDICE</h5>
     <ul id="valores">
@@ -24,7 +24,7 @@
 </div>
 
 
-<img src="img/am1.jpg" alt=""> <br>
+<img src="img/am1.jpg" width="1350px" height="200px" alt=""> <br>
 
 <!--INDUCCION -->
 
@@ -53,7 +53,7 @@
     <h5>¿Qué debes saber?</h5>
     Debes tener los conocimientos básicos para poder ayudar en las áreas de voluntariado. <br>
 
-    <img src="img/am2.jpg" alt=""> <br>
+    <img src="img/am2.jpg" width="900px" height="500px" alt=""> <br>
 
     En este material te presentaremos las áreas ambientales donde puedes ofrecer ayuda, así como la solución a los
     diferentes problemas ambientales <br> que existen en el país, conocerás las acciones que debes realizar para
@@ -465,7 +465,7 @@
 
         <h5>¿Cuáles serán tus responsabilidades?</h5>
 
-        <img src="img/respo.jpg" alt="">
+        <img src="img/respo.jpg" width="1350px" height="700px" alt="">
 
     </div>
 </div>
@@ -476,11 +476,11 @@
 
         <h5>Consejos que puedes poner en pràctica</h5>
     </div>
-    <img src="img/conse.jpg" alt=""> <br>
+    <img src="img/conse.jpg" width="1350px" height="400px" alt=""> <br>
 
-    <img src="img/conse2.jpg" alt=""> <br>
+    <img src="img/conse2.png" width="1350px" height="400px" alt=""> <br>
 
-    <img src="img/conse3.jpg" alt="">
+    <img src="img/conse3.jpg" width="1350px" height="400px" alt="">
 
 
 </div>

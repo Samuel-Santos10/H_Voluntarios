@@ -4,7 +4,7 @@
 
 <div>
 
-<img src="img/Ei.jpg" alt="">
+<img src="img/Ei.jpg" width="1350px" height="400px" alt="">
 
 <ul> <h5>INDICE</h5> 
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="img/ed1.jpg" alt="">
+<img src="img/ed1.jpg" width="1350px" height="500px" image="center" alt="">
     <div class="row py-4">
 
         <h6>INTRODUCCION</h6> <br>
@@ -37,9 +37,9 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/ed2.jpg" alt="">
+        <img src="img/ed2.jpg" width="1350px" height="400px" alt="">
 
-        <p>
+        <p text-align="justify">
        Debes tener los conocimientos básicos para poder ayudar en las áreas de voluntariado educativo. <br>
 
        En este material de inducción conocerás las áreas educativas donde puedes ayudar a niños, jóvenes o adultos, te presentamos las áreas donde puedes brindar ayuda centros escolares o comunidades, los diferentes problemas que afectan a el desarrollo de la educación, de qué manera puedes ayudar y mejorar la educación de algunas personas que no tienen ese beneficio importante para la sociedad y aprenderás tus responsabilidades como voluntario educativo. <br>
@@ -60,7 +60,7 @@
               <div class="row row-cols-1 row-cols-md-3 g-5">
                 <div class="col">
                     <div class="card">
-                    <img src="img/ed3.jpg" class="card-img-top" alt="...">
+                    <img src="img/ed3.jpg" width="-500px" height="-400px" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Apoyo a la lectura</h5>
                         <p class="card-text">Un voluntariado educativo busca que la Lectura Fácil o apoyo a la lectura sea un apoyo para las personas con dificultades de comprensión lectora. Por ejemplo, para personas mayores, personas con discapacidad, o personas que no saben escribir bien.</p>
