@@ -1,5 +1,4 @@
 //https://www.npmjs.com/package/web-push
-
 const public_key = "BBLqx3_KRDPZ83j0-pal5uP-oxz7j5JsCComm5pCgfv0lXqCGqKJH69Tx7TKhDAhfVQ5etWgb0h_PXDEMLakZUU";
 if( 'serviceWorker' in navigator ){
     navigator.serviceWorker.register("/js/sw.js").then(reg=>{

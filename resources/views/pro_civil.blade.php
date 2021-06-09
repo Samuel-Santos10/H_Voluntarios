@@ -5,7 +5,7 @@
 
 <div>
 
-<img src="img/Pi.jpg" alt="">
+<img src="img/Pi.jpg" width="1350px" height="400px" alt="">
 
 <ul> <h5>INDICE</h5> 
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="img/vpc.jpg" alt="">
+<img src="img/vpc.jpg" height="400px" background-image="center" alt="">
 
 <div class="row py-4">
         <h6>INTRODUCCION</h6> <br>
@@ -38,7 +38,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/saber.jpg" alt="">
+        <img src="img/saber.jpg" width="1350px" height="400px" alt="">
 
         <p>
         En primer lugar, debes de saber que eres bienvenido a formar parte de este programa que tiene como fin el ayudar a las personas en las diferentes emergencias de las que pueden ser víctimas. <br>
@@ -59,7 +59,7 @@
         <div class="row row-cols-1 row-cols-md-2 g-5">
   <div class="col">
     <div class="card">
-      <img src="img/pv3.jpg" class="card-img-top" alt="...">
+      <img src="img/pv3.jpg"height="330px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Huracanes o tormentas tropicales</h5>
         <p class="card-text">Estos fenómenos son muy frecuentes cada año por lo que es una a los que mas te enfrentaras, por lo cual tu labor consiste  la evacuación de aquellas personas con un mayor índice de peligro, estos pueden ser derrumbar, inundaciones y otras, por lo cual estas personas al tener un mayor índice de riesgo son las primeras a las que debes de evacuar, tambien se te presentaran casos como  ya hallan sido victimas de un derrumbe por lo cual debes de realizar las acciones pertinentes de búsqueda con mucha precaución para que una posible victima que pueda estar en estado critico la puedas salvar, dando primeros auxilios como revisar sus signos vitales, su respiración, y sobre todo cual es su estado físico, es decir si no tiene alguna fractura en el cuerpo, lo cual de ser el caso deberás de moverla con mucho cuidado para evitar cualquier percance.</p>
@@ -77,7 +77,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/terremoto.jpg" class="card-img-top" alt="...">
+      <img src="img/terremoto.jpg" height="330px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Terremotos</h5>
         <p class="card-text">Este fenómeno tambien es muy común, por lo que para realizar rescates cuando se produzca este tipo de fenómenos debes de tomar en cuenta en primer lugar es mantener la calma ya que esta te ayudara a tomar las mejores decisiones, tambien tienes que alejar aquellas personas que este en las cercanías de alguna pared para evitar más víctimas, tambien debes de evitar mover cualquier columna o restos de escombros, ya que en caso de a ver victimas con vida enterradas, podrías causarles más lesiones o casar su muerte, tambien debes de tener en cuenta siempre seguir el plan que tus superiores te darán a conocer una vez hallan evaluado la situación, tambien debes de evacuar a las víctimas de estos pero que tienen lesiones leves, Por último debes de proceder a realizar el rescate de aquellas personas que estén bajo escombros pero con las herramientas necesarias y con la ayuda de los demás compañeros.</p>
@@ -86,7 +86,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/pv6.jpg" class="card-img-top" alt="...">
+      <img src="img/pv6.jpg" height="330px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Incendios provocados</h5>
         <p class="card-text">Estos se dan por causas mal intencionadas, es decir, ya sea por hacerle el daño a alguien o algunos casos son por curiosidad y otros son provocados sin la intención pero que aun así se producen, en estos casos debemos de actuar con mucha cautela debido a que cuando estos se producen en comunidades se corre el riesgo de explosiones por lo cual debes de tener mucha precaución cuando decidas actuar para el control de este, de igual forma debes de asegurarte de primeramente poner a salvo a las victimas. Así como, hacer uso de tu equipo cuando decidas entrar al hogar o edificio, tambien debes de evaluar la situación dentro, para que no seas victima de un derrumbe de vigas o columnas, así como ir apagando con tu equipo posibles unidades que puedan producir explosiones, sucesivamente debes de extinguir el indencio  con el equipo adecuado hasta que este este controlado completamente.
@@ -135,7 +135,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/pv10.jpg" class="card-img-top" alt="...">
+                <img src="img/pv10.jpg" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Daños psicologicos </h5>
                     <p class="card-text">Todo desastre natural trae consigo innumerable tipo de daños y el psicologico es uno de los mas frecuentes que se da en la poblacion ya que se les acumula una serie de hechos y perdidas tanto materiales como el hecho de volver a contruir una vida que ya habian establecido a lo largo de los años de su labor.</p>
@@ -165,7 +165,7 @@
                     <div class="row row-cols-1 row-cols-md-2 g-5">
             <div class="col">
                 <div class="card">
-                <img src="img/pv12.jpg" class="card-img-top" alt="...">
+                <img src="img/pv12.jpg" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Seguir el plan</h5>
                     <p class="card-text">Siempre debes de seguir el plan que se realiza antes de realizar las acciones de rescate.</p>
@@ -174,7 +174,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/pv13.jpg" class="card-img-top" alt="...">
+                <img src="img/pv13.jpg" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Siempre debes de mantener la calma</h5>
                     <p class="card-text">Cuando la situación se vuelva una zona de mayor peligro, recuerda que eres un rescatista, si pierdes la calma, las victimas tambien la perderán y estas podrían entrar en pánico por lo que se te dificultara aún más tu trabajo.</p>
@@ -183,7 +183,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/pv14.jpg" class="card-img-top" alt="...">
+                <img src="img/pv14.jpg" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Situación bajo control</h5>
                     <p class="card-text">Procura siempre mantener la situación bajo control, esto ayudara a que las acciones de rescate se hagan de una forma rápida y ordenada lo cual genera una mayor productividad para los diferentes elementos de rescate y para las víctimas, las cuales se pueden encontrar en una situación crítica, por lo cual al mantener la situación bajo control brindara mejores resultados para todos los implicados.</p>
@@ -192,7 +192,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/pv15.png" class="card-img-top" alt="...">
+                <img src="img/pv15.png" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Siempre estar alerta</h5>
                     <p class="card-text">Siempre debes de estar preparado en caso la situación empeore por causas que están fuera de nuestro control, es decir, si la situación de rescate que estas realizando empeora por causa de otro desastre, tu debes de tener siempre un plan b para implementar en caso de que eso suceda, esto te ayudara a que puedas siempre preparado ante cualquier situación de alto riesgo que realices. </p>
@@ -201,7 +201,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                <img src="img/pv16.jpg" class="card-img-top" alt="...">
+                <img src="img/pv16.jpg" height="330px" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Mantente siempre a la disposición de los demás</h5>
                     <p class="card-text">Es decir, ayuda siempre a tus demás compañeros en sus labores cuando estos serán superados por la situación que enfrentan, anímalos y bríndales tu apoyo emocional, así como ellos te lo pueden brindar a ti.</p>
@@ -215,7 +215,7 @@
         <div class="row py-4">
         <h5>Recomencasiones</h5> <br>
 
-        <img src="img/respo2.png" alt="">
+        <img src="img/respo2.png"  height="600px" alt="">
 
         </div>
 

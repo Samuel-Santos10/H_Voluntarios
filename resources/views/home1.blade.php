@@ -42,17 +42,17 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
+                <div class="">
                     <div id="mainSlider" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="img/Pedir-ayuda.jpg" class="d-block w-100" alt="...">
+                                <img src="img/Pedir-ayuda.jpg" width="2500px" height="500px" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="img/ayudando.jpg" class="d-block w-100" alt="...">
+                                <img src="img/ayudando.jpg" width="2500px" height="500px" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="img/ayuda.jpg" class="d-block w-100" alt="...">
+                                <img src="img/ayuda.jpg" width="2500px" height="500px" class="d-block w-100" alt="...">
                             </div>
                         </div>
                     </div>

@@ -7,7 +7,7 @@
 
 
         <div>
-        <img src="img/Si.jpg" alt="">
+        <img src="img/Si.jpg" width="1350px" height="400px" alt="">
             <ul> <h5>INDICE</h5> 
 
                 <li>INTRODUCCION</li>
@@ -22,7 +22,7 @@
 
 
         <div class="row py-4">
-        <img src="img/soc2.jpg" alt="">
+        <img src="img/soc2.jpg" width="1350px" height="400px" alt="">
         <h6>INTRODUCCION</h6> <br>
 
         <p>
@@ -43,7 +43,7 @@
         <div class="row py-4">
         <h6>¿Qué debes saber?</h6> <br>
 
-        <img src="img/soc3.jpg" alt="">
+        <img src="img/soc3.jpg" width="1350px" height="400px" alt="">
 
         <p>
         Como primer requisito debes de conocimientos básicos los cuales te califican para poder formar parte de esta arrea social. <br>
@@ -74,7 +74,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/soc4.jpeg" class="card-img-top" alt="...">
+      <img src="img/soc4.jpeg" height="440px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Aseo</h5>
         <p class="card-text">Si eres un amante de la limpieza esta es tu área,  puedes contribuir no solo a diferentes comunidades las cuales con tu ayuda estas se convertirán en comunidades sanas, tambien estas ayudando a que las personas puedan padecer de enfermedades, ya que se sabe que en lugares donde se desecha mucha basura y a medida esta se va almacenando provoca ciertos hedores que para aquellas personas con problemas respiratorios puede causarles grandes daños en su salud, así como tambien estas ayudando a un medio ambiente sano y próspero en el cual tu eres el pionero de este gran cambio.</p>
@@ -83,7 +83,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/discapacidad.jpg" class="card-img-top" alt="...">
+      <img src="img/discapacidad.jpg" height="360px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Discapacidad</h5>
         <p class="card-text">La discapacidad es una de las áreas mas olvidadas de nuestra sociedad, en esa área de voluntariado debes de tener en cuenta que en primer lugar al formar parte de esta área le estas mejorando la calidad e vida y la autonomía de las personas con diversidad de funcional o discapacidad, en esta área debes de tener en cuenta que debes de entablas una relación muy cercana a la persona, es decir, tienes que acompañarla en su vida diaria, tambien debes de apoyarla en actividades de integración de la sociedad, en sus actividades de inserción laboral y en el apoyo familiar, por ello al ser de esta área debes de tener en cuenta todas estas  condiciones que te permitiran ser de esta area.</p>
@@ -104,7 +104,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="img/familia.jpg" class="card-img-top" alt="...">
+      <img src="img/familia.jpg" height="350px" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Infancia, juventud y familia</h5>
         <p class="card-text">Esta área tienes que tener en cuenta que las acciones que tienes como labor son llevar tanto a niños como adolescentes y familias son, motivarlas a participar en proyectos de ocio y de tiempo libre, tambien en proyectos educativos, debes de divulgarles los derechos que estos poseen, debes de integrarlos a programas o eventos que se realizan en la comunidad con el fin de romper esa barrera que las mismas personas se ponen hacia con las demás personas. </p>
@@ -117,13 +117,13 @@
 <div class="row py-4">
         <h5>¿Errores de los que puedes ser victima en tu inicio?</h5> <br>
 
-        <img src="img/err.png" alt="">
+        <img src="img/err.png" height="600px" alt="">
 </div>
 
 <div class="row py-4">
         <h5>Ventajas</h5> <br>
 
-        <img src="img/ventajas.jpg" alt="">
+        <img src="img/ventajas.jpg" height="1300px" alt="">
 </div>
 
 

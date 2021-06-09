@@ -20,7 +20,11 @@
                         <div class="row p-2">
                             <div class="col-sm">
                                 <ul id="ltsMensajes">
-                                   <li v-for="mimsg in chats" :key="mimsg._id">{{ mimsg.from }} : {{ mimsg.msg }}</li> 
+                                   <li v-for="mimsg in chats" :key="mimsg._id">
+                                       {{ mimsg.from }} :
+                                       <img class="rounded img-thumbnail" width="100" height="100" v-if=" (/\.(jpg|png|gif|bmp|jfif)$/i).test(mimsg.msg)" :src="'/archivos/'+mimsg.msg" alt="Imagen">
+                                       <span v-else>{{ mimsg.msg }}</span>
+                                    </li> 
                                 </ul>
                             </div>
                             <div class="col-sm">
@@ -34,8 +38,9 @@
                                 <input v-model="chat.msg" type="text" placeholder="Escribe tu mensaje" class="form-control" required @keyup.enter.once="guardarChat">
                             </div>
                             <div class="col">
+                                <input @change="fileChat" type="file" name="flChat" id="flChat" title="Seleccione ua imagen" alt="Seleccione una imagen" >
                                 <a @click="guardarChat">
-                                    <img src="/img/enviar.png" width="10" height="15" alt="Enviar">
+                                    <img src="/img/enviar.png" width="40" height="30" alt="Enviar">
                                 </a>
                             </div>
                         </div>
@@ -61,6 +66,9 @@
                 msg    : '',
                 status : false,
                 error  : false,
+                flName : '',
+                file   : '',
+                FReader : '',
                 chat:{
                     id     : 0,
                     from   : document.querySelector("#navbarDropdown").innerText,
@@ -144,21 +152,40 @@
                         alert("No hay permiso para mostrar las notificaiones");
                     }
                 }
+           },
+           fileChat(file){
+                this.flName = file.target.files[0].name;
+                this.file = file.target.files[0];
+                this.chat.msg = this.flName;
+                this.FReader.onload = event=>{
+                    this.chat.Data = event.target.result;
+                    socket.emit('envio_archivos', this.chat);
+                };
+                socket.emit('inicio_envio_archivos', { 'Name' : this.flName, 'Size' : this.file.size });
            }
         },
         created(){
+            this.FReader = new FileReader();
             this.obtenerDatos();
+
             socket.on('chat',chat=>{
                 this.mostrarDatos(chat);
                 this.mostrarNotificaciones(chat.from, chat.msg);
             });
+            socket.on('MoreData', data=>{
+                var Place = data['Place'] * 524288; //Posición inicial de los siguientes bloques
+                var NewFile; //La variable que contendrá el nuevo bloque de datos
+                if(this.file.slice){ 
+                    NewFile = this.file.slice(Place, Place + Math.min(524288, (this.file.size-Place)));
+                }
+                this.FReader.readAsBinaryString(NewFile);
+            });
         },
     }
 </script>
-
 <style>
     #ltsMensajes{
-        width: 450px;
+        width: 460px;
         height: 350px;
         overflow-y: scroll;
     }
