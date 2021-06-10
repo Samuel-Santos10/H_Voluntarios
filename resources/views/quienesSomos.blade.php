@@ -1,6 +1,6 @@
-@extends('Empresa1')
+@extends('layout')
 
-@section('conteni')
+@section('contenidos')
 
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />

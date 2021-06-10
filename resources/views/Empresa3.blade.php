@@ -9,7 +9,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>EMPRESA 1</title>
+    <title>EMPRESA 3</title>
 
 
     <!-- Fonts -->
@@ -31,7 +31,7 @@
     <div id="app">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">ONG AYUDA</a>
+                <a class="navbar-brand" href="#">ONG firpo</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="{{ __('Toggle navigation') }}">
@@ -69,11 +69,11 @@
                 <div class="text">
                     <h3>Misión - Visión</h3>
                     <p>
-                        SOMOS LA MEJOR ONG
+                    Ser excelente.
                     </p>
 
                     <p>
-                        SOMOS LA MEJOR ONG
+                    Ser excelente.
                     </p>
                 </div>
 

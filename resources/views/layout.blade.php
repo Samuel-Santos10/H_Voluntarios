@@ -49,9 +49,8 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" @click="abrirForm('chat')" href="#">Chat</a>
+                            <a class="nav-link"  href="/quienesSomos">Quienes Somos</a>
                         </li>
-
 
                     </ul>
 
@@ -91,7 +90,6 @@
             </div>
         </nav>
 
-        <chat-component v-bind:form="forms" ref="chat" v-show="forms['chat'].mostrar"></chat-component>
         
         </div>
 
