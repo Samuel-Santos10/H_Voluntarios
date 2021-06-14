@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 
         Route::apiResources([
                 'empresas'=>EmpresasController::class,
+                
         ]);
 
         Route::view('/', 'home1')->name('home1');
@@ -88,5 +89,8 @@ use Illuminate\Support\Facades\Route;
         Route::view('/Empresa5', 'Empresa5')->name('Empresa5');
 
         Route::view('/Empresa6', 'Empresa6')->name('Empresa6');
+
+        Route::view('/administracion_empresas', 'administracion_empresas')->name('administracion_empresas');
+
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');

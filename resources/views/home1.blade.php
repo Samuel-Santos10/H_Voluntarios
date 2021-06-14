@@ -30,10 +30,10 @@
         <div class="row" style="height:170px; background-color:#A5FAE7">
             <div class="col-12 align-self-center text-center">
                 <h3>¿QUÉ HACEMOS?</h3>
-                <p> Somos una empresa que brinda una herramienta a aquellas empresas y organizaciones para <br>
+                <p> <h4>   Somos una empresa que brinda una herramienta a aquellas empresas y organizaciones para <br>
                     poder conectar a las diferentes empresas y personas que ofrecen servicios en El Salvador <br>
                     para que personas que quieran ofrecer sus servicios vean en esta herramienta que les estamos <br>
-                    brindado una opcion para que estos puedan unirse al servicio de voluntariado. </p>
+                    brindado una opcion para que estos puedan unirse al servicio de voluntariado.</h4> </p>
             </div>
         </div>
         </div>
