@@ -1,0 +1,45 @@
+.new_post_container{
+    width: 60%;
+    margin: 30px auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.new_post_container .input{
+    width: 100%;
+}
+
+.clearfix{
+    clear: both;
+}
+
+h1{
+    text-align: center;
+}
+
+.form-box input{
+    display: block;
+    width: 100%;
+    font-family: inherit;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 25px;
+}
+
+.form-box textarea{
+   margin-left: 25px;
+}
+.form-box .error-text{
+    margin-left: 25px;
+}
+
+.form-box label{
+    color: black;
+}
+
+.form-box small{
+    color: black;
+}

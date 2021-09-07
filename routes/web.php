@@ -92,5 +92,6 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/administracion_empresas', 'administracion_empresas')->name('administracion_empresas');
 
+        Route::view('/publicar', 'publicar')->name('publicar');
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');
