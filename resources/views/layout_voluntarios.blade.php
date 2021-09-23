@@ -44,7 +44,7 @@ button {
             <a href="#HistoriasVoluntarios" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Historias voluntarios</a>
             <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Beneficios</a>
             <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Tipos voluntarios</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Informate</a>
+            <a href="/informate" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Informate</a>
         </div>
 
         <!-- Navbar on small screens -->

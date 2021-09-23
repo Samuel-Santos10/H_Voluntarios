@@ -13,7 +13,7 @@
 </head>
 
 <script type="text/javascript">
-function Cancelar() {
+    function Cancelar() {
     var respuesta = alert("Seguro que deseas cancelar la publicacion");
 
     if (respuesta == true) {
@@ -30,6 +30,7 @@ function Cancelar() {
     <form action="publicar" enctype="multipart/form-data" id="new_post_container"
         class="new_post_container was-validated">
         <h1>Nueva publicación</h1>
+        <hr>
         <br>
         <div class="mb-3 row form-box">
             <label class="col-sm-1 col-form-label" for="validationServer01">Titulo: </label>
@@ -50,16 +51,17 @@ function Cancelar() {
 
         <div class="ui-input">
             <label class="col-sm-2 col-form-label" for="nombre">Añadir archivo adjunto: </label>
-            <input type="file" class="file" class="image_file" name="image_file">
+            <input type="file" id="miInput">
         </div>
 
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-           <!-- <button class="btn btn-primary me-md-2 btnSavePost" id="submit" type="submit"
+             <!-- <button class="btn btn-primary me-md-2 btnSavePost" id="submit" type="submit"
                 value="Guardar">Publicar</button> -->
             <a class="btn btn-danger" href="/administracion_empresas" role="button" onclick="Cancelar()">Cancelar</a>
             <p class="clearfix"></p>
         </div>
     </form>
     </div>
-
+    <script src="{{ asset('js/script.js') }}"></script>
+</body>
 @endsection

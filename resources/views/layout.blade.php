@@ -64,7 +64,7 @@
         <img src="img/PC.jpg" alt="House" style="width:100%">
       </div>
     </div>
-              <button type="submit" class="w3-button w3-block w3-padding-large w3-orange w3-margin-bottom">Toda la oferta informativa</button>
+    <button type="submit" class="w3-button w3-block w3-padding-large w3-orange w3-margin-bottom"><a href="/informate" class="w3-bar-item w3-button">Toda la oferta informativa</a></button>
 
   </div>
 
@@ -153,7 +153,9 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
       <h3>ONG</h3>
       <p><button class="w3-button w3-light-grey w3-block">Ir a ONG</button></p>
     </div>
-      <button type="submit" class="w3-button w3-block w3-padding-large w3-orange w3-margin-bottom">Todas las ONG dónde colaborar</button>
+    <button type="submit" class="w3-button w3-block w3-padding-large w3-orange w3-margin-bottom"><a href="/layout_empresas" class="w3-bar-item w3-button">Todas las ONG dónde colaborar</a></button>
+
+
   </div>
   
 

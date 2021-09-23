@@ -52,6 +52,10 @@
                             <a class="nav-link" href="/publicar">Crear publicaión</a>
                         </li>
 
+                        <li class="nav-item">
+                            <a class="nav-link" href="/foro">Crear foro</a>
+                        </li>
+
                     </ul>
 
                     <!-- Right Side Of Navbar -->
