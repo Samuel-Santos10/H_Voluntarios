@@ -71,8 +71,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Ser tutor de niños durante o después de la escuela</li>
                     <li>Organiza juegos y actividades para niños en hospitales o que visitan a familiares hospitalizados</li>
                     <li>Tejer mantas de bebé para donar a hospitales o refugios para personas sin hogar</li>
@@ -86,6 +84,8 @@
                     <li>Cuida a niños durante una reunión de padres</li>
                     <li>Organiza una hora de lectura para los niños en una escuela o biblioteca local</li>
                     <li>Donar libros de niños usados a una biblioteca escolar.</li>
+                    </ul>
+                    
                     </p>
                 </div>
                 </div>
@@ -98,8 +98,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Pintar bancos de parque</li>
                     <li>Dona libros usados a tu biblioteca local</li>
                     <li>Pintar cercas y paredes comunitarias</li>
@@ -111,6 +109,7 @@
                     <li>Ofrézcase como voluntario para limpiar la basura en un evento comunitario</li>
                     <li>Adoptar una carretera local y limpie la basura a lo largo de ella</li>
                     <li>Ayudar a arreglar o recaudar fondos para reparar un patio de recreo deteriorado</li>
+                    </ul>
 
                     </p>
                 </div>
@@ -124,8 +123,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Leer a los residentes en un hogar de ancianos</li>
                     <li>Entregar mercado y comidas a vecinos ancianos.</li>
                     <li>Enseñar habilidades tecnológicas a los ancianos.</li>
@@ -137,7 +134,9 @@
                     <li>Dona y decora un árbol de navidad en un asilo de ancianos.</li>
                     <li>Pedirle a a las personas mayores que le cuenten sobre sus vidas.</li>
                     <li>Recoger medicamentos para un vecino anciano.</li>
-                    <li>Ayudar a los vecinos ancianos a limpiar sus hogares y organizar sus pertenencias.</li>
+                    <li>Ayudar a los vecinos ancianos a limpiar sus hogares y organizar sus pertenencias.</li> 
+                    </ul>
+                   
                     </p>
                 </div>
                 </div>
@@ -150,8 +149,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Limpiar un parque local</li>
                     <li>Plantar un árbol para el día del árbol</li>
                     <li>Coloca un comedero para pájaros y una fuente para pájaros en tu patio trasero</li>
@@ -166,6 +163,8 @@
                     <li>Enséñales a los niños sobre el medio ambiente.</li>
                     <li>Plantar flores o plantas nativas a lo largo de las carreteras.</li>
                     <li>Usar bolsas de tela/ reusables cuando haces compras.</li>
+                    </ul>
+                    
                     </p>
                 </div>
                 </div>
@@ -178,8 +177,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Dona tu ropa vieja</li>
                     <li>Se voluntario en un comedor de beneficencia</li>
                     <li>Donar alimentos no perecederos a un banco de alimentos.</li>
@@ -192,6 +189,8 @@
                     <li>Cuida niños mientras sus padres buscan trabajo</li>
                     <li>Organice una campaña de ropa para donar</li>
                     <li>Hacer kits de primeros auxilios para refugios para personas sin hogar.</li>
+                    </ul>
+                    
                     </p>
                 </div>
                 </div>
@@ -204,8 +203,6 @@
                     <p class="card-text">
 
                     <ul>
-                    
-                    </ul>
                     <li>Voluntario en una estación de policía o estación de bomberos</li>
                     <li>Conviértete en un salvavidas certificado y se voluntario en una piscina o playa local</li>
                     <li>Pinta sobre el graffiti en tu barrio.</li>
@@ -216,7 +213,9 @@
                     <li>Enseñar una clase de seguridad para niños que permanecen solos en la casa.</li>
                     <li>Crear un anuncio de servicio público de radio o televisión contra el uso de drogas y alcohol.</li>
                     <li>Obtener la certificación de RCP</li>
-                    <li>Voluntario como guardia de cruce para una escuela</li>
+                    <li>Voluntario como guardia de cruce para una escuela</li> 
+                    </ul>
+                   
                     </p>
                 </div>
                 </div>

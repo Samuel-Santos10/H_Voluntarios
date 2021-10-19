@@ -5,6 +5,7 @@
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link href="/css/quienes.css" rel="stylesheet">
+    <title>Quienes somos</title>
 </head>
 
 <body>
@@ -29,7 +30,7 @@
                 </div>
 
                 <div class="image">
-                    <img src="img/a.png" width="450" />
+                    <img src="img/a.png" alt="imas" width="450" />
                 </div>
             </main>
 

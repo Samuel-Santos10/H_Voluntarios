@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html>
-<title>HEROES VOLUNTARIOS</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<html lang="es">
+  <head>
+    <title>HEROES VOLUNTARIOS</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
 
 <body>
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>HEROES</b> VOLUNTARIOS</a>
+    <a href="#home" class="w3-bar-item w3-button"><strong>HEROES</strong> VOLUNTARIOS</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="/layout_voluntarios" class="w3-bar-item w3-button">Voluntarios</a>
@@ -26,7 +28,7 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img class="w3-image" src="img/fond.png" alt="Architecture" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
-  <img src="img/log.png" style="width:100%;max-width:1000px">
+  <img src="img/log.png" alt="img" style="width:100%;max-width:1000px">
   </div>
 </header>
 
@@ -35,7 +37,7 @@
 
   <!-- Sección Informate -->
   <div class="w3-container w3-padding-32" id="projects">
-    <h1 class="w3-xXlarge w3-text-orange"><b>Infórmate.</b></h1>
+    <h1 class="w3-xXlarge w3-text-orange"><strong>Infórmate.</strong></h1>
     <hr style="width:50px;border:5px solid orange" class="w3-round">
   </div>
 
@@ -71,7 +73,7 @@
 
   <!-- Sección Quienes Somos -->
   <div class="w3-container w3-padding-32" id="quienesSomos">
-<h1 class="w3-xXlarge w3-text-orange"><b>Quiénes somos.</b></h1>
+<h1 class="w3-xXlarge w3-text-orange"><strong>Quiénes somos.</strong></h1>
     <hr style="width:50px;border:5px solid orange" class="w3-round">
     
     <p>Somos un equipo enfocado a crear una herramienta de ayuda cuyo objetivo es conectar a las empresas y organizaciones que ofrecen programas de
@@ -94,7 +96,7 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
 
   <!-- Seccion de Nuestro Equipo-->
 <div class="w3-container w3-padding-64 w3-center" id="team">
-<h1 class="w3-xXlarge w3-text-orange"><b>NUESTRO EQUIPO</b></h1>
+<h1 class="w3-xXlarge w3-text-orange"><strong>NUESTRO EQUIPO</strong></h1>
 
 
 <div class="w3-row"><br>
@@ -127,7 +129,7 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
 
  <!-- Seccion Colabora con una ONG -->
 
-    <h1 class="w3-xXlarge w3-text-orange"><b>Colabora con una ONG.</b></h1>
+    <h1 class="w3-xXlarge w3-text-orange"><strong>Colabora con una ONG.</strong></h1>
     <hr style="width:50px;border:5px solid orange" class="w3-round">
     
   <div class="w3-row-padding w3-grayscale">
@@ -170,14 +172,14 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
       <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
       <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
       <button class="w3-button w3-black w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        <em class="fa fa-paper-plane"></em> SEND MESSAGE
       </button>
     </form>
   </div>
   
 <!-- Image of location/map -->
 <div class="w3-container">
-  <img src="/w3images/map.jpg" class="w3-image" style="width:100%">
+  <img src="/w3images/map.jpg" class="w3-image" alt="imags" style="width:100%">
 </div>
 
 <!-- End page content -->
