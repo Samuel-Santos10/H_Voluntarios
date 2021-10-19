@@ -101,14 +101,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <th>CODIGO</th>
-                                <th>NOMBRE ENTIDAD</th>
-                                <th>MISION</th>
-                                <th>PAIS</th>
-                                <th>DIRECCION</th>
-                                <th>EMAIL</th>
-                                <th>NOMBRE ENCARGADO</th>
-                                <th></th>
+                                <th id="iden">CODIGO</th>
+                                <th id="iden1">NOMBRE ENTIDAD</th>
+                                <th id="iden2">MISION</th>
+                                <th id="iden3">PAIS</th>
+                                <th id="iden4">DIRECCION</th>
+                                <th id="iden5">EMAIL</th>
+                                <th id="iden6">NOMBRE ENCARGADO</th>
+                                <th id="iden7"></th>
                             </tr>
                         </thead>
                         <tbody>
