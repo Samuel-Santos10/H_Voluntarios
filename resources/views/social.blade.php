@@ -185,22 +185,23 @@
 
         <p>
         <h5>¿Qué más debes saber de voluntariado social?</h5>
-        <a href="https://www.juntadeandalucia.es/organismos/igualdadpoliticassocialesyconciliacion/areas/inclusion/voluntariado-social/paginas/introduccion-voluntariado.html"target="_blank">Ir al sitio</a>
+        <a href="https://www.juntadeandalucia.es/organismos/igualdadpoliticassocialesyconciliacion/areas/inclusion/voluntariado-social/paginas/introduccion-voluntariado.html"
+        target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Cultural en el área social</h5>
-        <a href="https://freiwilligendienste-kultur-bildung.de/es/"target="_blank">Ir al sitio</a>
+        <a href="https://freiwilligendienste-kultur-bildung.de/es/"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Discapacidad</h5>
-        <a href="http://riberdis.cedd.net/handle/11181/2879"target="_blank">Ir al sitio</a>
+        <a href="http://riberdis.cedd.net/handle/11181/2879"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Migración y refugio</h5>
-        <a href="https://coordinadoraongd.org/nuestro-trabajo/migracion-y-refugio/"target="_blank">Ir al sitio</a>
+        <a href="https://coordinadoraongd.org/nuestro-trabajo/migracion-y-refugio/"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Sin hogar</h5>
-        <a href="https://www.solidarios.org.es/que-hacemos/personas-sin-hogar/"target="_blank">Ir al sitio</a>
+        <a href="https://www.solidarios.org.es/que-hacemos/personas-sin-hogar/"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Consejos para ser un buen voluntariado</h5>
-        <a href="https://masoportunidades.org/top-10-consejos-voluntariado-voluntario-responsable/"target="_blank">Ir al sitio</a>
+        <a href="https://masoportunidades.org/top-10-consejos-voluntariado-voluntario-responsable/"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         </p>
     </div>

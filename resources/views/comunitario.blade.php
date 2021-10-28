@@ -304,19 +304,19 @@
 
         <p>
         <h5>Servicio comunitario: una guía para que la familia se involucre</h5>
-        <a href="https://kidshealth.org/Advocate/es/parents/volunteer-esp.html"target="_blank">Ir al sitio</a>
+        <a href="https://kidshealth.org/Advocate/es/parents/volunteer-esp.html"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>COMO SE REALIZA EL TRABAJO COMUNITARIO</h5>
-        <a href="https://ximena1208.wordpress.com/como-se-realiza-el-trabajo-comunitario/"target="_blank">Ir al sitio</a>
+        <a href="https://ximena1208.wordpress.com/como-se-realiza-el-trabajo-comunitario/"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Cómo ayudar a los más necesitados desde tu comunidad</h5>
-        <a href="https://blog.worldvision.org.ec/como-ayudar-a-los-mas-necesitados-desde-tu-comunidad"target="_blank">Ir al sitio</a>
+        <a href="https://blog.worldvision.org.ec/como-ayudar-a-los-mas-necesitados-desde-tu-comunidad"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Apoyos de la comunidad y la familia</h5>
-        <a href="https://www.endvawnow.org/es/articles/1568-apoyos-de-la-comunidad-y-la-familia.html"target="_blank">Ir al sitio</a>
+        <a href="https://www.endvawnow.org/es/articles/1568-apoyos-de-la-comunidad-y-la-familia.html"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Ayudando a mi comunidad </h5>
-        <a href="https://youtu.be/EBsD42dA00A"target="_blank">Ir al sitio</a>
+        <a href="https://youtu.be/EBsD42dA00A"target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         </p>
     </div>

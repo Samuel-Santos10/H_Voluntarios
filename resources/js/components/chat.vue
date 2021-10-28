@@ -118,8 +118,6 @@
                 }, time*1000);
             },
             obtenerDatos(){
-                //const chats = await axios.get('http://localhost:3001/historial');
-                //this.chats = chats.data;
                 
                 socket.emit('historial');
                 socket.on('historial',chats=>{
