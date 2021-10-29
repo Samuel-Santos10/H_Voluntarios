@@ -52,7 +52,6 @@
    
         </div>
 
-        <script src="https://unpkg.com/vue-resizable@1"></script>
          <script src="{{ asset('js/app.js') }}"></script>
 
 

@@ -498,30 +498,30 @@
 
         <p>
         <h5>CAUSAS y CONSECUENCIAS de la CONTAMINACIÓN de LAGOS y RÍOS</h5>
-        <a href="https://youtu.be/XmSUZ1FnD9w" target="_blank">Ir al sitio</a>
+        <a href="https://youtu.be/XmSUZ1FnD9w" target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>CONTAMINACIÓN de LAGOS y RÍOS</h5>
         <a href="https://www.ecologiaverde.com/contaminacion-de-lagos-y-rios-causas-consecuencias-y-como-evitarla-1936.html"
-            target="_blank">Ir al sitio</a>
+            target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>¿Por qué se pierde la biodiversidad?</h5>
-        <a href="https://www.biodiversidad.gob.mx/biodiversidad/porque" target="_blank">Ir al sitio</a>
+        <a href="https://www.biodiversidad.gob.mx/biodiversidad/porque" target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Acciones para cuidar el medioambiente</h5>
         <a href="https://eacnur.org/blog/acciones-cuidar-medio-ambiente-casa-tc_alt45664n_o_pstn_o_pst/"
-            target="_blank">Ir al sitio</a>
+            target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         <h5>Causas y consecuencias de la contaminación ambiental</h5>
-        <a href="https://www.significados.com/causas-y-consecuencias-de-la-contaminacion-ambiental/" target="_blank">Ir
+        <a href="https://www.significados.com/causas-y-consecuencias-de-la-contaminacion-ambiental/" target="_blank" rel="noopener">Ir
             al sitio</a>
         <br>
         <h5>Tipos de contaminación ambiental</h5>
-        <a href="https://ecosiglos.com/contaminacion-ambiental-causas-consecuencias-y-soluciones/" target="_blank">Ir al
+        <a href="https://ecosiglos.com/contaminacion-ambiental-causas-consecuencias-y-soluciones/" target="_blank" rel="noopener">Ir al
             sitio</a>
         <br>
         </p>
         <h5>¿Qué es la CONTAMINACIÓN AMBIENTAL y cómo reducirla?</h5>
-        <a href="https://youtu.be/52T3JxMMQ9c" target="_blank">Ir al sitio</a>
+        <a href="https://youtu.be/52T3JxMMQ9c" target="_blank" rel="noopener">Ir al sitio</a>
         <br>
         </p>
     </div>
