@@ -36,7 +36,7 @@
             <label class="col-sm-1 col-form-label" for="validationServer01">Titulo: </label>
             <div class="col-sm-10">
                 <input type="text" id="validationServer01" class="form-control is-valid" required
-                    pattern="[A-ZÑña-z]{1,30}" placeholder="Escribe aqui el tutilo de tu publicación">
+                    pattern="[A-ZÑña-z]{1,30}" placeholder="Escribe aqui el titulo de tu publicación">
                 <small class="error-text">(Max. 30 caracteres. Solo letras) </small>
             </div>
         </div>
@@ -55,8 +55,8 @@
         </div>
 
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-             <!-- <button class="btn btn-primary me-md-2 btnSavePost" id="submit" type="submit"
-                value="Guardar">Publicar</button> -->
+             <button class="btn btn-primary me-md-2 btnSavePost" id="submit" type="submit"
+                value="Guardar">Publicar</button> 
             <a class="btn btn-danger" href="/administracion_empresas" role="button" onclick="Cancelar()">Cancelar</a>
             <p class="clearfix"></p>
         </div>
