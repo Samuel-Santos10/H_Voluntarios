@@ -1,4 +1,6 @@
 <?php
+
+use App\Http\Controllers\ForoController;
 use Illuminate\Support\Facades\Route;
 
 
@@ -95,5 +97,19 @@ use Illuminate\Support\Facades\Route;
         Route::view('/publicar', 'publicar')->name('publicar');
 
         Route::view('/foro', 'foro')->name('foro');
+
+        Route::view('/post', 'post')->name('post');
+
+        Route::view('/layout_post', 'layout_post')->name('layout_post');
+
+        Route::view('/Vforos', 'Vforos')->name('Vforos');
+
+        Route::view('/layout_foros', 'layout_foros')->name('layout_foros');
+
+        Route::view('/historias', 'historias')->name('historias');
+
+        Route::view('/layout_historias', 'layout_historias')->name('layout_historias');
+
+
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');

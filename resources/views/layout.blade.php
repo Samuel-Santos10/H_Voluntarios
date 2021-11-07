@@ -17,8 +17,9 @@
     <div class="w3-right w3-hide-small">
       <a href="/layout_voluntarios" class="w3-bar-item w3-button">Voluntarios</a>
       <a href="#quienesSomos" class="w3-bar-item w3-button">Quiénes somos</a>
-      <a href="#about" class="w3-bar-item w3-button">¿Tienes dudas?</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contacta</a>
+      <a href="/historias" class="w3-bar-item w3-button">Historias de voluntarios/as</a>
+      <a href="/post" class="w3-bar-item w3-button">Beneficios y ayudas</a>
+      <a href="/Vforos" class="w3-bar-item w3-button">Comparte en el foro</a>
       
     </div>
   </div>
@@ -162,7 +163,7 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
   
 
 
-  <!-- Contact Section -->
+  <!-- Contact Section 
   <div class="w3-container w3-padding-32" id="contact">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
     <p>Lets get in touch and talk about your next project.</p>
@@ -176,7 +177,7 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
       </button>
     </form>
   </div>
-  
+  -->
 <!-- Image of location/map -->
 <div class="w3-container">
   <img src="/w3images/map.jpg" class="w3-image" alt="imags" style="width:100%">

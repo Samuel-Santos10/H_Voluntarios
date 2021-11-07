@@ -49,7 +49,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="/publicar">Crear publicaión</a>
+                            <a class="nav-link" href="/publicar">Crear publicación</a>
                         </li>
 
                         <li class="nav-item">
@@ -98,6 +98,7 @@
         <chat-component v-bind:form="forms" ref="chat" v-show="forms['chat'].mostrar"></chat-component>
     </div>
 
+    <script src="https://unpkg.com/vue-resizable@1"></script>
     <script src="https://cdn.socket.io/4.1.1/socket.io.min.js"
         integrity="sha384-cdrFIqe3RasCMNE0jeFG9xJHog/tgOVC1E9Lzve8LQN1g5WUHo0Kvk1mawWjxX7a" crossorigin="anonymous">
     </script>

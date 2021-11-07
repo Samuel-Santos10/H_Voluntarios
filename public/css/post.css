@@ -1,0 +1,20 @@
+.new_post_container{
+    width: 60%;
+    margin: 30px auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.new_post_container .input{
+    width: 100%;
+}
+
+.clearfix{
+    clear: both;
+}
+
+h1{
+    text-align: center;
+}
