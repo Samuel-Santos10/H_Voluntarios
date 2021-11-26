@@ -49,7 +49,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="/publicar">Crear publicación</a>
+                            <a class="nav-link" href="/index">Crear publicación</a>
                         </li>
 
                         <li class="nav-item">

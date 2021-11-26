@@ -18,8 +18,9 @@
       <a href="/layout_voluntarios" class="w3-bar-item w3-button">Voluntarios</a>
       <a href="#quienesSomos" class="w3-bar-item w3-button">Quiénes somos</a>
       <a href="/historias" class="w3-bar-item w3-button">Historias de voluntarios/as</a>
-      <a href="/post" class="w3-bar-item w3-button">Beneficios y ayudas</a>
+      <a href="/mostrar" class="w3-bar-item w3-button">Beneficios y ayudas</a>
       <a href="/Vforos" class="w3-bar-item w3-button">Comparte en el foro</a>
+      <a href="/preguntas" class="w3-bar-item w3-button">Necesitas ayuda</a>
       
     </div>
   </div>
@@ -161,23 +162,6 @@ de las problemáticas de los ciudadanos, que conozcan las áreas de voluntario q
 
   </div>
   
-
-
-  <!-- Contact Section 
-  <div class="w3-container w3-padding-32" id="contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
-    <p>Lets get in touch and talk about your next project.</p>
-    <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
-      <button class="w3-button w3-black w3-section" type="submit">
-        <em class="fa fa-paper-plane"></em> SEND MESSAGE
-      </button>
-    </form>
-  </div>
-  -->
 <!-- Image of location/map -->
 <div class="w3-container">
   <img src="/w3images/map.jpg" class="w3-image" alt="imags" style="width:100%">

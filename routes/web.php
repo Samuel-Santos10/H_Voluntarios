@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\ForoController;
 use Illuminate\Support\Facades\Route;
 
 
@@ -52,18 +51,6 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/evaluacion_sanitario', 'evaluacion_sanitario')->name('evaluacion_sanitario');
 
-        Route::view('/p_web1', 'p_web1')->name('p_web1');
-
-        Route::view('/p_web2', 'p_web2')->name('p_web2');
-
-        Route::view('/p_web3', 'p_web3')->name('p_web3');
-
-        Route::view('/p_web4', 'p_web4')->name('p_web4');
-
-        Route::view('/p_web5', 'p_web5')->name('p_web5');
-
-        Route::view('/p_web6', 'p_web6')->name('p_web6');
-
         Route::view('/deberes', 'deberes')->name('deberes');
 
         Route::view('/layout_empresas', 'layout_empresas')->name('layout_empresas');
@@ -94,11 +81,11 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/administracion_empresas', 'administracion_empresas')->name('administracion_empresas');
 
-        Route::view('/publicar', 'publicar')->name('publicar');
+        Route::view('/index', 'index')->name('index');
 
         Route::view('/foro', 'foro')->name('foro');
 
-        Route::view('/post', 'post')->name('post');
+        Route::resource('/mostrar',PublicacionController::class);
 
         Route::view('/layout_post', 'layout_post')->name('layout_post');
 
@@ -109,6 +96,10 @@ use Illuminate\Support\Facades\Route;
         Route::view('/historias', 'historias')->name('historias');
 
         Route::view('/layout_historias', 'layout_historias')->name('layout_historias');
+        
+        Route::view('/preguntas', 'preguntas')->name('preguntas');
+
+        Route::view('/ayuda', 'ayuda')->name('ayuda');
 
 
         
