@@ -68,10 +68,7 @@
                 </div>
             </div>
         </nav>
-
-       
-
-
+        
         <empresas-component v-bind:form="forms" ref="empresa" v-show="forms['empresa'].mostrar"></empresas-component>
         
 
