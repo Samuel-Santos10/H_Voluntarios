@@ -35,7 +35,6 @@
                         <div class="owl-carousel testimonials-carousel wow fadeInUp">
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-1.jpg" class="testimonial-img" alt=""> -->
                                 <h3 class="animate__animated animate__bounce">Primero</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -47,7 +46,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-2.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Segundo</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -59,7 +57,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!--  <img src="img/testimonial-3.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Tercero</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -72,7 +69,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-4.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Cuarto</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -81,7 +77,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Quinto</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -90,7 +85,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Sexto</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -101,7 +95,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Septimo</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -110,7 +103,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Octavo</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -121,7 +113,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Noveno</h3>
                                 <h4>Derechos &amp; deberes</h4>
                                 <p>
@@ -151,7 +142,6 @@
                                 <p>Según la ley de voluntariado, las personas voluntarias están obligadas a:</p>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-1.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Primero</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -163,7 +153,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-2.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Segundo</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -175,7 +164,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!--  <img src="img/testimonial-3.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Tercero</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -186,7 +174,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-4.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Cuarto</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -197,7 +184,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Quinto</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -206,7 +192,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Sexto</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -220,7 +205,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Septimo</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -229,7 +213,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Octavo</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>
@@ -239,7 +222,6 @@
                                 </div>
 
                                 <div class="testimonial-item">
-                                    <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                     <h3>Noveno</h3>
                                     <h4>Derechos &amp; deberes</h4>
                                     <p>

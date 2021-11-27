@@ -33,7 +33,6 @@
                         <div class="owl-carousel testimonials-carousel wow fadeInUp">
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-1.jpg" class="testimonial-img" alt=""> -->
                                 <h3 class="animate__animated animate__bounce">1. PIENSA</h3>
                                 <p>
                                     ¿Qué te mueve? <br>
@@ -44,7 +43,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-2.jpg" class="testimonial-img" alt=""> -->
                                 <h3>2. MIRA</h3>
                                 <p>
                                     ¿Qué necesidades y problemas hay en tu entorno? <br>
@@ -54,7 +52,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!--  <img src="img/testimonial-3.jpg" class="testimonial-img" alt=""> -->
                                 <h3>3. VALORA</h3>
                                 <p>
                                     ¿Qué puedes hacer tú? <br>
@@ -64,7 +61,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>4. CONTACTA</h3>
                                 <p>
                                     ¿Con qué organización quieres colaborar? <br>
@@ -74,7 +70,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>5. Participa</h3>
                                 <p>
                                     ¿Estás a punto para implicarte? <br>
@@ -84,7 +79,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>6. FÓRMATE</h3>
                                 <p>
                                     ¿Necesitas saber más? <br>
