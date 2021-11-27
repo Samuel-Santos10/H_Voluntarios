@@ -34,7 +34,6 @@
                         <div class="owl-carousel testimonials-carousel wow fadeInUp">
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-1.jpg" class="testimonial-img" alt=""> -->
                                 <h3 class="animate__animated animate__bounce">La historia de Manuel de los Ángeles Vargas</h3>
                                 <p>
                                 En nombre de Manuel de los Ángeles Vargas, de 23 años, recibió el Premio Fundación Esplai a la Ciudadanía Comprometida en el año 2015, en la categoría «Trabajo por la E-inclusión», por su labor voluntaria en el telecentro Red Conecta de Jovesolides, en Paterna-Valencia, en el barrio de La Coma. Por el cariño, entusiasmo, actitud de superación y responsabilidad que el joven pone en cada una de las actividades en las que participa. <br>
@@ -50,7 +49,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-2.jpg" class="testimonial-img" alt=""> -->
                                 <h3>Valentí Vilaplana, voluntario en Guatemala</h3>
                                 <p>
                                 En el marco de La Liga Iberoamericana, red a la que pertenecemos,  organizamos estancias de voluntariado internacional en los proyectos educativos que desarrolla la ONG Fe y Alegría en Guatemala. Estas experiencias están dirigidas a personas que trabajan en Fundación Esplai y Fundesplai y que, durante sus vacaciones de verano, colaboran en diferentes proyectos en el país centroamericano.
@@ -68,7 +66,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!--  <img src="img/testimonial-3.jpg" class="testimonial-img" alt=""> -->
                                 <h3>La historia de Sarah Fernández Deutsch</h3>
                                 <p>
                                 En nombre de Sarah Fernández Deutsch, de 32 años, recibió el Premio Fundación Esplai a la Ciudadanía Comprometida en el año 2015, en la categoría «Acción Socioeducativa», por su trayectoria en el acompañamiento en los procesos de cambio en los territorios. Su impulso comunitario, de la participación y la construcción de ciudadanía comprometida en zonas en desventaja en el sur madrileño y otros lugares del mundo.
@@ -86,7 +83,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-4.jpg" class="testimonial-img" alt=""> -->
                                 <h3>La historia de Carmen Quintero Gallego</h3>
                                 <p>
                                 En nombre de Carmen Quintero Gallego, de 76 años, recibió el Premio Fundación Esplai a la Ciudadanía Comprometida en el año 2015, en la categoría «Acción Socioeducativa», por ser una incombustible impulsora de proyectos educativos y de inserción socio laboral en la Asociación vecinal y la Fundación Rondilla, en Valladolid. Por su trayectoria constante y su mentalidad abierta para introducir y realizar proyectos innovadores que dan respuesta a las necesidades de las personas más vulnerables. Por su más que amplia trayectoria de compromiso personal en la construcción de ciudadanía.
@@ -106,7 +102,6 @@
                             </div>
 
                             <div class="testimonial-item">
-                                <!-- <img src="img/testimonial-5.jpg" class="testimonial-img" alt=""> -->
                                 <h3>La historia de José Manuel Ramírez Navarro</h3>
                                 <p>
                                 En nombre de José Manuel Ramírez, de 52 años, recibió el Premio Fundación Esplai a la Ciudadanía Comprometida en el año 2015, en la categoría «Impulso al Tercer Sector», por ser una persona incansable en la tarea de dar a conocer las situaciones de pobreza y exclusión social en todo el Estado. Por su disposición y compromiso, hasta sus últimas consecuencias, en poner voz a las injusticias; y por ser azotador constante de la conciencia de las administraciones públicas sobre los derechos de los ciudadanos y ciudadanas de toda clase y condición.
