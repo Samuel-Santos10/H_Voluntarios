@@ -101,6 +101,10 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/ayuda', 'ayuda')->name('ayuda');
 
+        Route::view('/layout_END', 'layout_END')->name('layout_END');
+
+        Route::view('/pasos', 'pasos')->name('pasos');
+
 
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');
