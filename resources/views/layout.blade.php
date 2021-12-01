@@ -20,7 +20,7 @@
       <a href="/historias" class="w3-bar-item w3-button">Historias de voluntarios/as</a>
       <a href="/mostrar" class="w3-bar-item w3-button">Beneficios y ayudas</a>
       <a href="/Vforos" class="w3-bar-item w3-button">Comparte en el foro</a>
-      <a href="/preguntas" class="w3-bar-item w3-button">Necesitas ayuda</a>
+      <a href="/layout_END" class="w3-bar-item w3-button">Necesitas ayuda</a>
       
     </div>
   </div>
