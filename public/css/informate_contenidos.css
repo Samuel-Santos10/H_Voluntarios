@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+    text-align: justify;
+}
+
+p{
+    margin-bottom: 1.6em;
+}
+
+.contenedor{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.main{
+    padding-top: 6rem;
+    background-color: rgb(233, 240, 239);
+}
+
+.main2{
+    padding-top: 6rem;
+    background-color: rgb(233, 240, 239);
+}
+
+.educativo{
+    background-color: rgb(160, 188, 248);
+}
+
+
+.social{
+    background-color:pink;
+}
+
+.proteccion_civil{
+    background-color: wheat;
+}
+
+.comunitario{
+    background-color: rgb(232, 203, 246);
+}
+
+
+h5{
+    font-weight:bold;
+    margin-bottom: 2rem;
+}
+
+h6{
+    font-weight:bold;
+}

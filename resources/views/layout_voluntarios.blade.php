@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=roboto" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+     <link href="/css/cards.css" rel="stylesheet">
+
+     <link href="/css/informate.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     </head>
  
 <style>
@@ -28,7 +38,8 @@ button {
 }
 
 .fa-check-square,
-.fa-book {
+.fa-book,
+.fa-medal {
     font-size: 200px
 }
 </style>
@@ -41,20 +52,21 @@ button {
             <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red"
                 href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><em
                     class="fa fa-bars"></em></a>
-            <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+            <a href="/" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
             <a href="#DerechosDeberes" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Derechos/Deberes</a>
             <a href="#HistoriasVoluntarios" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Historias voluntarios</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Beneficios</a>
+            <a href="#beneficios" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Beneficios</a>
             <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Tipos voluntarios</a>
-            <a href="/informate" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Informate</a>
+            <a href="#informate" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Informate</a>
         </div>
 
         <!-- Navbar on small screens -->
         <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-            <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 1</a>
-            <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
-            <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
-            <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a>
+            <a href="#DerechosDeberes" class="w3-bar-item w3-button w3-padding-large">Derechos/Deberes</a>
+            <a href="#HistoriasVoluntarios" class="w3-bar-item w3-button w3-padding-large">Historias voluntarios</a>
+            <a href="#beneficios" class="w3-bar-item w3-button w3-padding-large">Beneficios</a>
+            <a href="#" class="w3-bar-item w3-button w3-padding-large">Tipos voluntarios</a>
+            <a href="#informate" class="w3-bar-item w3-button w3-padding-large">Informate</a>
         </div>
     </div>
 
@@ -176,7 +188,7 @@ button {
 
     <!--Grid Historias Voluntarios-->
 
-<div class="w3-row-padding w3-light-blue w3-padding-64 w3-container">
+<div class="w3-row-padding w3-pale-red w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-third w3-center">
     </div>
@@ -215,6 +227,167 @@ button {
   </div>
 </div>
 
+<!--Grid Historias Voluntarios-->
+
+
+
+
+
+   <!--Divicion BENEFICIOS -->
+
+   <!-- Header -->
+   <header class="w3-container w3-black w3-center" style="padding:10px 16px" id="beneficios">
+        <h6 class="w3-margin w3-jumbo">Beneficios</h6>
+    </header>
+
+    <!--Grid BENEFICIOS-->
+
+    <div class="w3-row-padding w3-sand w3-padding-64 w3-container">
+        <div class="w3-content">
+            <div class="w3-third w3-center">
+                <em class="fa fa-medal w3-padding-64 w3-text-black w3-margin-right"></em>
+            </div>
+
+            <!--Contenido BENEFICIOS-->
+
+            <div class="w3-twothird">
+                
+                <ol>
+                    <li>
+                        <h5 class="w3-padding-32">Sentirte útil</h5>
+                        <p class="w3-text-grey">Cuando te conviertes en voluntario o voluntaria te sientes útil. Te das cuenta de que tus acciones, tus tareas como voluntario/a tienen un objetivo y ayudan a otras personas o al medio ambiente.</p>
+                    </li>
+
+                    <li>
+                        <h5 class="w3-padding-32">Crear lazos con tu comunidad</h5>
+                        <p class="w3-text-grey">¿Te gusta trabajar con otras personas, codo con codo, sumando fuerzas, compartiendo experiencias y aprendiendo unas de otras, caminando y creciendo juntas? Cuando te conviertes en voluntario o voluntaria de una organización de tu comunidad conoces gente diferente y aprendes a sumar esfuerzos para conseguir un objetivo. ¡Quizás haciendo voluntariado harás buenos amigos y amigas!.</p>
+                    </li>
+
+                    <li>
+                        <h5 class="w3-padding-32">Poner a prueba tus capacidades</h5>
+                        <p class="w3-text-grey">No es lo mismo aprender de un libro que de la vida real. Cuando haces voluntariado te sumerges en la experiencia y aplicas tus conocimientos y capacidades. Añade tu experiencia de voluntariado en el CV o currículo, las empresas o ONGs por las que te gustaría trabajar seguro que valoraran positivamente todo lo que has aprendido siendo voluntario/a.</p>
+                    </li>
+
+                    <li>
+                        <h5 class="w3-padding-32">Aprender de la sociedad que te rodea</h5>
+                        <p class="w3-text-grey">Las personas vivimos en sociedad, es nuestra naturaleza. Cuando haces voluntariado social, aprendes mucho de la sociedad que te rodea y se agudiza tu sensibilidad por los problemas sociales. Comprométete como voluntario o voluntaria para comprender el mundo y enriquecer tu punto de vista.</p>
+                    </li>
+
+                    <li>
+                        <h5 class="w3-padding-32">Mejorar tu autoestima y generosidad</h5>
+                        <p class="w3-text-grey">  Convertirse en voluntario/a quiere decir implicarse, sentirse útil, sentirse parte de algo, sentirse necesario. Estos sentimientos mejoran la autoestima y el concepto de uno mismo, al mismo tiempo que nos ayudan a salir un poco de nosotros mismos/as, suavizar el egocentrismo que reina en nuestras vidas y ser más generosos/as.</p>
+                    </li>
+
+                    <li>
+                    <h5 class="w3-padding-32">Estar en forma</h5>
+                        <p class="w3-text-grey">Según recientes estudios científicos, el trabajo voluntario mejora nuestra salud física y mental, baja la tasa de mortalidad, disminuye el riesgo de depresión y otras enfermedades mentales, mejora los niveles de colesterol y la salud cardiovascular, entre otros. Además, estos beneficios para la salud se verán potenciados si nuestras tareas como voluntaria o voluntario incluyen actividades físicas como se puede dar en algunos tipos de voluntariado como en el voluntariado deportivo, ambiental, de ocio y tiempo libre, de protección civil o el voluntariado cultural.</p>
+                    </li>
+
+                    <li>
+                    <h5 class="w3-padding-32">Convertirte en agente de cambio</h5>
+                        <p class="w3-text-grey">¿Quieres cambiar el mundo? ¿Poner tu granito de arena para que mejoren las cosas? ¿Para acabar con el sufrimiento y la injusticia? Haciéndote voluntario o voluntaria puedes convertirte en agente de este cambio que tanto anhelas. Hacer voluntariado quiere decir sumar fuerzas para mejorar la sociedad o el medio ambiente.</p>
+                    </li>
+
+                    <li>
+                    <h5 class="w3-padding-32">Actuar siguiendo tus valores ideológicos</h5>
+                        <p class="w3-text-grey">¿Tienes muy claros tus valores ideológicos o religiosos y quieres ponerlos en práctica? Cuando eres voluntario o voluntaria te rigen valores como la generosidad, la solidaridad, el altruismo, la sostenibilidad, la justicia,  la fraternidad, la empatía, los derechos humanos, la igualdad, la libertad, la honestidad, la tolerancia, la sinceridad, la utopía….</p>
+                    </li>
+
+                    <li>
+                    <h5 class="w3-padding-32">Proteger la naturaleza</h5>
+                        <p class="w3-text-grey">¿Te duele ver como se está deteriorando nuestro planeta? Hacerte voluntario de una organización que desarrolle programas de voluntariado ambiental es una manera de contribuir a la protección y cuidado del medio ambiente.</p>
+                    </li>
+
+                    <li>
+                    <h5 class="w3-padding-32">Pasarlo bien</h5>
+                        <p class="w3-text-grey">¡No todo es trabajo y esfuerzo! Haciendo voluntariado puedes divertirte mucho, disfrutar, pasarlo bien en tu tiempo libre y hacer buenos amigos y amigas.</p>
+                    </li>
+
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <!--Grid BENEFICIOS-->
+
+
+
+
+
+
+
+           <!--Divicion Contenidos Informate -->
+   <!-- Header -->
+   <header class="w3-container w3-black w3-center" style="padding:10px 16px" id="informate">
+        <h6 class="w3-margin w3-jumbo">Informate</h6>
+    </header>
+
+    <!--Grid Informate-->
+
+    <body>
+
+  <div class="row row-cols-1 row-cols-md-3 g-3 mb-5 mt-5 mr-1 ml-1">
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/ambiental.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Ambiental</h5>
+                <a href="/layout_informate_contenidos#ambiental" class="btn btn-primary">Ir ambiental</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/educa.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Educativo</h5>
+                <a href="layout_informate_contenidos#educativo" class="btn btn-primary">Ir educativo</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/social.png" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Social</h5>
+                <a href="layout_informate_contenidos#social" class="btn btn-primary">Ir social</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/PC.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Proteccion civil</h5>
+                <a href="layout_informate_contenidos#proteccion_civil" class="btn btn-primary">Ir proteccion civil</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/Comunit.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Comunitario</h5>
+                <a href="layout_informate_contenidos#comunitario" class="btn btn-primary">Ir comunitario</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-light">
+            <img src="img/sociosa.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Socio-sanitario</h5>
+                <a href="socio_sanitario" class="btn btn-primary">Ir socio-sanitario</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+    <!--Grid Informate-->
+
+
 
     <!-- Footer -->
     <footer class="w3-center w3-black w3-padding-16">
@@ -234,6 +407,7 @@ button {
         }
     }
     </script>
+
 
 </body>
 

@@ -23,7 +23,7 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/', 'home1')->name('home1');
 
-        Route::view('/informate', 'informate')->name('informate');
+        Route::view('/layout_informate_contenidos', 'layout_informate_contenidos')->name('layout_informate_contenidos');
 
         Route::view('/quienesSomos', 'quienesSomos')->name('quienesSomos');
 
