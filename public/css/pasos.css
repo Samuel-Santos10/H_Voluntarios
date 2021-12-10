@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+h1:hover{
+    transform: translateY(-10%);
+}
+
+h5{
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+}
+
+.w3-card-4{
+    border-radius: 6px;
+    overflow: hidden;
+    transition: all 400ms ease;
+}
+
+.w3-card-4:hover{
+    transform: translateX(20%);
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+}
+
+#morado{
+    background-color: darkmagenta;
+    color: white;
+}
