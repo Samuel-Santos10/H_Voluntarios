@@ -105,6 +105,18 @@ use Illuminate\Support\Facades\Route;
 
         Route::view('/pasos', 'pasos')->name('pasos');
 
+        Route::view('/testA', 'testA')->name('testA');
+
+        Route::view('/testB', 'testB')->name('testB');
+
+        Route::view('/testC', 'testC')->name('testC');
+
+        Route::view('/testD', 'testD')->name('testD');
+
+        Route::view('/testE', 'testE')->name('testE');
+
+        Route::view('/testF', 'testF')->name('testF');
+
 
         
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home1');
